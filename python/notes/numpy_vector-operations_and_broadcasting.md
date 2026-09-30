@@ -1,6 +1,6 @@
 # NumPy Vectors Operations and Broadcasting
 
-«Objective: Learn how to represent and manipulate engineering vectors and using NumPy and understand broadcasting that will form the foundation for aerospace mathematics and simulation.»
+**Objective:** Learn how to represent and manipulate engineering vectors and using NumPy and understand broadcasting that will form the foundation for aerospace mathematics and simulation.
 
 ---
 

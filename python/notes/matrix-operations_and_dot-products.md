@@ -1,6 +1,6 @@
 # Matrix Operations and Dot Product
 
-«Objective: Learn how to represent and manipulate engineering and matrices using NumPy, and perform dot-product/matrix operations that will form the foundation for aerospace mathematics and simulation.»
+**Objective:** Learn how to represent and manipulate engineering and matrices using NumPy, and perform dot-product/matrix operations that will form the foundation for aerospace mathematics and simulation.
 
 ---
 
