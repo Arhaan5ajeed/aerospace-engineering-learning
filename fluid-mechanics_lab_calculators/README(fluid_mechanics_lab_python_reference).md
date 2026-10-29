@@ -504,3 +504,201 @@ plt.close()
 ```
 
 ---
+
+## 11. CSV Files and Data Export
+
+Exporting experimental datasets using the built-in `csv` module:
+
+```python
+import csv
+
+data = [
+    {"reading": 1, "discharge": 0.0012, "reynolds": 2100},
+    {"reading": 2, "discharge": 0.0015, "reynolds": 2600}
+]
+
+fieldnames = ["reading", "discharge", "reynolds"]
+
+with open("lab_results.csv", mode="w", newline="") as file:
+    writer = csv.DictWriter(file, fieldnames=fieldnames)
+    writer.writeheader()
+    writer.writerows(data)
+```
+
+---
+
+## 12. Formatted Output and f-Strings
+
+f-Strings provide concise syntax for output formatting:
+
+```python
+discharge = 0.00123456
+reynolds = 2450.7
+
+print(f"Discharge: {discharge:.4e} m^3/s")  # Scientific notation -> 1.2346e-03
+print(f"Reynolds No: {reynolds:.1f}")       # Fixed float decimal -> 2450.7
+```
+
+---
+
+## 13. Errors, Exceptions, and Debugging
+
+Use `try-except` blocks to handle runtime conversion errors gracefully:
+
+```python
+while True:
+    try:
+        time_s = float(input("Enter collection time (s): "))
+        if time_s <= 0:
+            print("Time must be positive.")
+            continue
+        break
+    except ValueError:
+        print("Invalid numerical input. Please enter a number.")
+```
+
+---
+
+## 14. Program Structure and Execution
+
+Recommended modular file structure for laboratory calculators:
+
+```python
+import math
+import csv
+import matplotlib.pyplot as plt
+
+def collect_inputs():
+    """Handles user input collection and validation."""
+    pass
+
+def calculate_results(inputs):
+    """Executes fluid mechanics equations."""
+    pass
+
+def main():
+    """Main execution flow."""
+    inputs = collect_inputs()
+    results = calculate_results(inputs)
+    # Output tables, plot graphs, and export CSV
+
+if __name__ == "__main__":
+    main()
+```
+
+---
+
+## 15. Engineering Units and Numerical Reliability
+
+- Always convert parameters to base **SI units** ($\mathrm{m}$, $\mathrm{kg}$, $\mathrm{s}$, $\mathrm{Pa}$, $\mathrm{m^3/s}$) prior to evaluation.
+- Avoid comparing floating point numbers directly using equality (`==`). Use `math.isclose()` or check tolerances:
+
+```python
+import math
+if math.isclose(actual_val, theoretical_val, rel_tol=1e-3):
+    print("Values match within tolerance.")
+```
+
+---
+
+## 16. Complete Mini-Example
+
+Below is a complete, executable lab calculator script for determining flow rate via a collection tank:
+
+```python
+import math
+
+def calculate_pipe_flow(diameter_mm, level_rise_cm, time_s):
+    # 1. Unit Conversions
+    diameter_m = diameter_mm / 1000.0
+    level_rise_m = level_rise_cm / 100.0
+    
+    # 2. Geometry & Physics Calculations
+    tank_area = 0.5 * 0.5  # 0.5m x 0.5m collecting tank
+    volume_m3 = tank_area * level_rise_m
+    discharge_m3_s = volume_m3 / time_s
+    
+    pipe_area = (math.pi * diameter_m**2) / 4.0
+    velocity_m_s = discharge_m3_s / pipe_area
+    
+    return {
+        "discharge": discharge_m3_s,
+        "velocity": velocity_m_s
+    }
+
+def main():
+    print("=== Pipe Flow Rate Calculator ===")
+    try:
+        d_mm = float(input("Enter pipe inner diameter (mm): "))
+        h_cm = float(input("Enter water level rise (cm): "))
+        t_s = float(input("Enter collection time (s): "))
+        
+        if d_mm <= 0 or h_cm <= 0 or t_s <= 0:
+            print("Error: All inputs must be positive numbers.")
+            return
+
+        results = calculate_pipe_flow(d_mm, h_cm, t_s)
+        
+        print("\n--- Results ---")
+        print(f"Discharge (Q) : {results['discharge']:.6f} m^3/s ({results['discharge']*1000:.3f} L/s)")
+        print(f"Velocity (V)  : {results['velocity']:.3f} m/s")
+
+    except ValueError:
+        print("Error: Invalid numerical input entered.")
+
+if __name__ == "__main__":
+    main()
+```
+
+---
+
+## 17. Common Errors and Their Solutions
+
+| Error | Typical Cause | Solution |
+| :--- | :--- | :--- |
+| `ValueError: could not convert string to float` | User typed text or empty space into `input()` | Wrap `input()` inside a `try-except ValueError` loop. |
+| `ZeroDivisionError: division by zero` | Time or area evaluated to `0.0` | Validate inputs to ensure non-zero denominators. |
+| `TypeError: unsupported operand type(s)` | Operating on strings instead of numbers | Convert strings using `float()` or `int()`. |
+| `IndexError: list index out of range` | Accessing an index outside list bounds | Verify list length with `len()` before indexing. |
+| `FileNotFoundError` | Reading or writing to an invalid path | Verify relative paths and directory permissions. |
+
+---
+
+## 18. Python Syntax Quick Reference
+
+```python
+# Variables & Basic Types
+x = 10                  # int
+y = 3.14                # float
+name = "Venturi"        # str
+is_laminar = True       # bool
+
+# Data Structures
+my_list = [1, 2, 3]     # List
+my_dict = {"a": 1}      # Dictionary
+my_tuple = (10, 20)     # Tuple
+
+# Controls
+if x > 5:
+    print("Greater")
+elif x == 5:
+    print("Equal")
+else:
+    print("Lesser")
+
+# Functions
+def area(d):
+    return math.pi * (d**2) / 4
+```
+
+---
+
+## 19. Learning Checklist
+
+- [ ] Can convert raw user input strings to floating-point numbers safely.
+- [ ] Understand how to convert lab measurement units into SI units in Python.
+- [ ] Know how to structure equations using `math` functions (`math.sqrt`, `math.pi`, `math.log`).
+- [ ] Able to store observations using lists and dictionaries.
+- [ ] Understand how to plot and format line/scatter plots using `matplotlib.pyplot`.
+- [ ] Can export calculated summary tables to `.csv` files using the `csv` module.
+- [ ] Know how to prevent program crashes using `try-except` blocks.
