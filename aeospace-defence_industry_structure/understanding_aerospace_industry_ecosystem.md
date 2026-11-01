@@ -526,3 +526,288 @@ Create a hypothetical supply chain identifying:
 6. What happens when a critical Tier-2 supplier fails to deliver?
 
 ---
+
+# Day 3 — The Manufacturing Ecosystem
+
+> **Objective:** Understand the specialised organisations responsible for manufacturing aerospace components, propulsion systems, avionics and other critical equipment.
+
+## 3.1 Component manufacturers
+
+Component manufacturers produce individual parts or assemblies used in larger aerospace systems.
+
+These components may be mechanical, electrical, electronic or structural.
+
+### Mechanical components
+
+Examples:
+
+- Bearings.
+- Shafts.
+- Gears.
+- Fasteners.
+- Valves.
+- Hydraulic fittings.
+- Actuators.
+- Brackets.
+
+### Structural components
+
+Examples:
+
+- Wing ribs.
+- Fuselage frames.
+- Stringers.
+- Structural panels.
+- Landing gear components.
+- Engine mounts.
+
+### Electrical and electronic components
+
+Examples:
+
+- Connectors.
+- Wiring harnesses.
+- Circuit boards.
+- Sensors.
+- Power distribution units.
+- Electronic modules.
+
+### Manufacturing technologies
+
+Aerospace components can be manufactured using:
+
+- CNC machining.
+- Casting.
+- Forging.
+- Sheet-metal forming.
+- Composite manufacturing.
+- Additive manufacturing.
+- Welding.
+- Heat treatment.
+- Surface treatment.
+
+The choice of manufacturing process depends on material properties, geometry, performance requirements, cost and certification requirements.
+
+## 3.2 Why aerospace manufacturing is different
+
+Aerospace manufacturing operates under demanding performance and safety requirements.
+
+A component may need to withstand:
+
+- High temperatures.
+- Pressure differences.
+- Vibration.
+- Fatigue loading.
+- Corrosion.
+- High rotational speeds.
+- Extreme mechanical stresses.
+- Repeated thermal cycles.
+
+A defect in an ordinary consumer product may cause inconvenience.
+
+A defect in a critical aircraft component can create a serious safety hazard.
+
+Therefore, aerospace manufacturers place significant emphasis on:
+
+- Material traceability.
+- Dimensional accuracy.
+- Quality assurance.
+- Process control.
+- Inspection.
+- Testing.
+- Documentation.
+- Configuration management.
+
+Aerospace quality is not simply about producing a component that looks correct. It is about demonstrating that the component consistently satisfies its defined requirements.
+
+## 3.3 Engine manufacturers
+
+Aircraft engines are among the most technologically complex products in the aerospace industry.
+
+Engine manufacturers develop propulsion systems that convert energy into thrust or mechanical power.
+
+Major engine manufacturers include:
+
+- [GE Aerospace](https://www.geaerospace.com/).
+- [Rolls-Royce](https://www.rolls-royce.com/).
+- [Pratt & Whitney](https://www.prattwhitney.com/).
+- [Safran](https://www.safran-group.com/).
+
+### Major types of aerospace propulsion
+
+**Turbojet**
+
+A gas turbine engine that produces thrust primarily through high-velocity exhaust gases.
+
+**Turbofan**
+
+A gas turbine engine that uses a fan to move a large quantity of air. Most modern commercial jet aircraft use turbofan engines.
+
+**Turboprop**
+
+A gas turbine engine that drives a propeller through a reduction gearbox.
+
+**Turboshaft**
+
+A gas turbine engine designed primarily to deliver shaft power, commonly used in helicopters.
+
+**Rocket engine**
+
+A propulsion system that generates thrust by expelling propellant. Unlike air-breathing engines, rockets carry their own oxidiser.
+
+### What does an engine manufacturer develop?
+
+An engine programme may involve:
+
+- Compressor stages.
+- Combustion chambers.
+- Turbine stages.
+- Shafts.
+- Bearings.
+- Fuel systems.
+- Engine control systems.
+- Thermal management.
+- Exhaust systems.
+- Engine monitoring systems.
+
+Engine manufacturers also work with extensive supplier networks for specialised materials, castings, forgings, coatings and precision components.
+
+### Engine business models
+
+Engine manufacturers may generate revenue through:
+
+- Initial engine sales.
+- Spare parts.
+- Maintenance contracts.
+- Overhaul services.
+- Fleet support.
+- Long-term service agreements.
+
+The business does not necessarily end when an engine is delivered.
+
+Aviation engines require extensive maintenance and support throughout their operational life.
+
+## 3.4 Avionics companies
+
+Avionics refers to the electronic systems used in aircraft and spacecraft.
+
+The term combines aviation and electronics.
+
+Avionics systems support navigation, communication, monitoring, control and situational awareness.
+
+### Major avionics systems
+
+**Navigation systems**
+
+Determine the aircraft's position, direction and navigation information.
+
+Examples include:
+
+- GPS/GNSS receivers.
+- Inertial navigation systems.
+- Air data systems.
+- Radio navigation equipment.
+
+**Communication systems**
+
+Allow aircraft to communicate with air traffic control, other aircraft and ground stations.
+
+Examples include:
+
+- VHF radios.
+- HF radios.
+- Satellite communication systems.
+- Data links.
+
+**Flight management systems**
+
+Help manage navigation, route planning, performance calculations and flight operations.
+
+**Display systems**
+
+Provide pilots with flight information.
+
+Examples include:
+
+- Primary flight displays.
+- Multifunction displays.
+- Head-up displays.
+
+**Flight control electronics**
+
+Process pilot inputs and sensor information to control aircraft behaviour.
+
+### Major avionics companies
+
+Examples include:
+
+- [Collins Aerospace](https://www.collinsaerospace.com/).
+- [Thales](https://www.thalesgroup.com/).
+- [Honeywell](https://www.honeywell.com/).
+- [BAE Systems](https://www.baesystems.com/).
+- [Bharat Electronics Limited (BEL)](https://bel-india.in/).
+
+Avionics companies may act as equipment manufacturers, subsystem suppliers or system integrators depending on the project.
+
+## 3.5 Materials and advanced manufacturing
+
+Materials are fundamental to aerospace engineering.
+
+Aircraft and spacecraft require materials that provide an appropriate combination of:
+
+- Strength.
+- Weight.
+- Fatigue resistance.
+- Corrosion resistance.
+- Thermal stability.
+- Manufacturability.
+- Cost.
+
+### Important aerospace materials
+
+| Material | Typical aerospace applications |
+|---|---|
+| Aluminium alloys | Aircraft structures and fuselage components |
+| Titanium alloys | Engine and structural components |
+| Nickel superalloys | High-temperature turbine components |
+| Carbon-fibre composites | Wings, fuselage sections and structural panels |
+| Specialised steels | Landing gear and high-strength components |
+| Ceramic materials | Thermal protection and high-temperature applications |
+
+### Why is this important?
+
+A manufacturer that can produce a specialised material or component reliably may become strategically important to an aerospace programme.
+
+For example, producing a turbine blade requires specialised metallurgy, manufacturing processes, thermal engineering and quality control.
+
+This creates opportunities for highly specialised manufacturing companies.
+
+## 3.6 Day 3 exercise
+
+Choose one of the following:
+
+- Jet engine.
+- Aircraft landing gear.
+- Flight control computer.
+- Composite wing.
+- Satellite propulsion system.
+
+Break it into its major subsystems and identify the types of manufacturers required to produce each subsystem.
+
+For every subsystem, answer:
+
+1. What does it do?
+2. What materials are required?
+3. What manufacturing processes might be used?
+4. What performance requirements must it satisfy?
+5. Which type of company would manufacture it?
+
+**End-of-day questions**
+
+1. What makes aerospace manufacturing different from ordinary manufacturing?
+2. What is the difference between an engine manufacturer and an aircraft OEM?
+3. What are the primary functions of avionics?
+4. Why are titanium alloys and nickel superalloys useful in aerospace?
+5. Why is material traceability important?
+
+---
