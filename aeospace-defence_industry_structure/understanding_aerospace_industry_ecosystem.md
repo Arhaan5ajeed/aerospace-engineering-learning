@@ -811,3 +811,282 @@ For every subsystem, answer:
 5. Why is material traceability important?
 
 ---
+
+# Day 4 — Software, System Integrators, Operators and MROs
+
+«Objective: Understand the role of software, systems engineering, integration, aircraft operation and lifecycle maintenance in the aerospace ecosystem.»
+
+## 4.1 Software companies in aerospace
+
+Modern aerospace products are increasingly dependent on software.
+
+Software is used throughout the product lifecycle, from initial design to manufacturing, testing, operation and maintenance.
+
+### A. Engineering software
+
+Used to design, simulate and analyse aerospace systems.
+
+Examples:
+
+- Computer-Aided Design (CAD).
+- Computational Fluid Dynamics (CFD).
+- Finite Element Analysis (FEA).
+- Multibody dynamics.
+- Flight simulation.
+- Digital twins.
+
+Examples of companies and platforms include:
+
+- <a href="https://www.ansys.com/">Ansys</a>.
+- <a href="https://www.3ds.com/">Dassault Systèmes</a>.
+- <a href="https://www.siemens.com/">Siemens</a>.
+- <a href="https://www.mathworks.com/">MathWorks</a>.
+
+### B. Aircraft operational software
+
+Software supports aircraft operations through:
+
+- Flight planning.
+- Navigation.
+- Aircraft health monitoring.
+- Fleet management.
+- Maintenance scheduling.
+- Fuel optimisation.
+- Operational analytics.
+
+### C. Embedded aerospace software
+
+Embedded software operates inside aircraft and aerospace equipment.
+
+Examples include software used in:
+
+- Flight control computers.
+- Engine control units.
+- Navigation systems.
+- Radar systems.
+- Communication equipment.
+- Autopilot systems.
+
+Unlike ordinary business applications, safety-critical aerospace software must satisfy demanding development, verification and assurance requirements.
+
+### D. Defence software
+
+Defence software supports military operations and decision-making.
+
+Examples include:
+
+- Intelligence analysis.
+- Surveillance systems.
+- Mission planning.
+- Sensor fusion.
+- Command and control.
+- Logistics management.
+- Predictive maintenance.
+- Battlefield awareness.
+
+Companies developing defence software may not manufacture aircraft or weapons.
+
+Instead, they provide software capabilities that help military organisations collect information, understand situations and coordinate operations.
+
+## 4.2 System integrators
+
+A system integrator combines separately developed components and subsystems into a functioning system.
+
+This is one of the most important concepts in aerospace.
+
+Consider an aircraft flight control system.
+
+It may involve:
+
+- Pilot input devices.
+- Sensors.
+- Flight control computers.
+- Software.
+- Electrical power.
+- Hydraulic or electromechanical actuators.
+- Control surfaces.
+
+Different organisations may manufacture these elements.
+
+The system integrator ensures that the elements work together according to the required architecture and performance specifications.
+
+### What does integration involve?
+
+1. Understanding system requirements.
+2. Defining the system architecture.
+3. Selecting suitable components and subsystems.
+4. Establishing interfaces.
+5. Integrating hardware and software.
+6. Conducting verification and validation.
+7. Testing system performance.
+8. Managing configuration and changes.
+
+### Systems integration versus manufacturing
+
+A manufacturer produces a component or system.
+
+A system integrator ensures that multiple components and systems operate together.
+
+An organisation may perform both functions.
+
+For example, an avionics company may manufacture navigation equipment and also integrate it into a larger avionics suite.
+
+## 4.3 Airlines
+
+Airlines are commercial organisations that operate aircraft to transport passengers or cargo.
+
+Examples include:
+
+- <a href="https://www.airindia.com/">Air India</a>.
+- <a href="https://www.goindigo.in/">IndiGo</a>.
+- <a href="https://www.emirates.com/">Emirates</a>.
+- <a href="https://www.singaporeair.com/">Singapore Airlines</a>.
+
+### What do airlines actually do?
+
+Airlines manage:
+
+- Aircraft acquisition or leasing.
+- Flight operations.
+- Pilots and cabin crew.
+- Route planning.
+- Scheduling.
+- Fuel management.
+- Passenger services.
+- Cargo operations.
+- Maintenance coordination.
+- Regulatory compliance.
+
+Airlines are primarily aircraft operators, not aircraft manufacturers.
+
+They purchase or lease aircraft from OEMs or aircraft leasing companies.
+
+### Aircraft leasing
+
+Airlines do not always own the aircraft they operate.
+
+Aircraft leasing companies purchase aircraft and lease them to airlines.
+
+This creates another important participant in the aerospace ecosystem.
+
+The leasing company acts as a financial owner of the aircraft, while the airline operates it.
+
+## 4.4 Airports
+
+Airports provide the physical infrastructure necessary for aircraft operations.
+
+They are not simply places where passengers board aircraft.
+
+An airport may contain:
+
+- Runways.
+- Taxiways.
+- Aprons.
+- Terminals.
+- Hangars.
+- Air traffic control facilities.
+- Fuel infrastructure.
+- Cargo facilities.
+- Navigation aids.
+- Ground support equipment.
+
+Airports may be operated by government authorities or private companies.
+
+In India, the Airports Authority of India (AAI) is an important airport and air navigation infrastructure organisation.
+
+## 4.5 MRO organisations
+
+MRO stands for **Maintenance, Repair and Overhaul**.
+
+MRO organisations maintain aircraft, engines and aerospace equipment throughout their operational life.
+
+### Maintenance
+
+Routine activities intended to keep equipment airworthy and operational.
+
+Examples:
+
+- Inspections.
+- Scheduled servicing.
+- Component replacement.
+- Lubrication.
+- System checks.
+
+### Repair
+
+Restoring damaged or defective components to an acceptable condition.
+
+Examples:
+
+- Structural repairs.
+- Component repairs.
+- Electrical system repairs.
+- Engine component restoration.
+
+### Overhaul
+
+A more extensive maintenance process involving inspection, disassembly, refurbishment, replacement and reassembly according to approved requirements.
+
+### Why is MRO important?
+
+An aircraft may remain in service for decades.
+
+Its operating life requires continuous maintenance, spare parts, technical support and regulatory compliance.
+
+Therefore, the aerospace business opportunity extends beyond the initial sale of the aircraft.
+
+### MRO business models
+
+MRO organisations may earn revenue through:
+
+- Scheduled maintenance contracts.
+- Engine maintenance.
+- Component repair.
+- Aircraft checks.
+- Spare parts.
+- Fleet support agreements.
+- Specialised inspection services.
+
+MRO is a major part of the aerospace lifecycle economy.
+
+## 4.6 The aerospace product lifecycle
+
+Aerospace products move through several stages.
+
+**Concept → Design → Development → Manufacturing → Integration → Testing → Certification → Delivery → Operation → Maintenance → Retirement**
+
+Different organisations may participate at different stages.
+
+The OEM may lead product development and integration.
+
+Suppliers manufacture components.
+
+Regulators oversee certification and operational requirements.
+
+Airlines or military organisations operate the equipment.
+
+MRO organisations support it throughout its service life.
+
+## 4.7 Day 4 exercise
+
+Choose a commercial aircraft and map its lifecycle.
+
+Identify:
+
+1. Its OEM.
+2. Its engine manufacturer.
+3. Its avionics suppliers.
+4. Its software requirements.
+5. Its airline operator.
+6. Its airport infrastructure.
+7. Its MRO requirements.
+8. Its regulatory environment.
+
+**End-of-day questions**
+
+1. What is the difference between embedded software and engineering software?
+2. What does a system integrator do?
+3. Why is systems integration important?
+4. What is the difference between an airline and an aircraft OEM?
+5. What are the three main activities represented by MRO?
+6. Why does aerospace generate revenue after the initial aircraft sale?
