@@ -1671,3 +1671,477 @@ Research:
 4. Why are universities important to aerospace innovation?
 5. Why might a startup choose to manufacture one specialised subsystem rather than an entire aircraft?
 6. What makes aerospace startups difficult to establish?
+
+---
+
+# Day 7 — Connecting the Ecosystem
+
+> **Objective:** Combine all six previous days into a single understanding of the aerospace industry and learn to analyse an aerospace programme from both an industrial and commercial perspective.
+
+## 7.1 The complete commercial aerospace ecosystem
+
+Consider the development of a hypothetical commercial passenger aircraft.
+
+The process begins with a market requirement.
+
+Airlines identify demand for aircraft with particular performance, capacity, range and operating-cost characteristics.
+
+The OEM evaluates the market opportunity and establishes product requirements.
+
+It then coordinates engineering, design and manufacturing.
+
+The industrial supply chain becomes active.
+
+### Industrial flow
+
+**Raw Materials**
+
+Aluminium, titanium, composites, steel and other specialised materials.
+
+↓
+
+**Lower-tier Suppliers**
+
+Machined components, fasteners, castings, forgings and specialised parts.
+
+↓
+
+**Tier-2 Suppliers**
+
+Subassemblies, hydraulic components, sensors and electrical assemblies.
+
+↓
+
+**Tier-1 Suppliers**
+
+Major aircraft systems such as engines, landing gear, avionics and environmental control systems.
+
+↓
+
+**OEM**
+
+Aircraft design, integration, testing, certification coordination and delivery.
+
+↓
+
+**Airline**
+
+Aircraft operation and passenger or cargo transportation.
+
+↓
+
+**MRO**
+
+Maintenance, repair, overhaul and continued operational support.
+
+Throughout this process:
+
+- Regulators establish safety requirements and oversee compliance.
+- Airports provide operational infrastructure.
+- Software companies provide engineering and operational tools.
+- Universities and research organisations contribute new knowledge and technologies.
+- Financial institutions and leasing companies may finance aircraft acquisition.
+
+## 7.2 The complete defence aerospace ecosystem
+
+Now consider the development of a hypothetical military combat aircraft.
+
+The process begins with a national defence requirement.
+
+The military identifies an operational capability gap.
+
+The government establishes priorities and allocates resources.
+
+A procurement authority manages the acquisition process.
+
+A prime contractor develops or supplies the required capability.
+
+The prime contractor coordinates a network of suppliers.
+
+### Defence procurement flow
+
+**Government**
+
+Establishes defence policy and allocates funding.
+
+↓
+
+**Military**
+
+Defines operational requirements and serves as the end user.
+
+↓
+
+**Procurement Authority**
+
+Manages procurement and contracting.
+
+↓
+
+**Prime Contractor**
+
+Develops, integrates or supplies the major system.
+
+↓
+
+**Tier-1 Suppliers**
+
+Provide engines, avionics, radar and other major systems.
+
+↓
+
+**Tier-2 and Tier-3 Suppliers**
+
+Provide subsystems, components and specialised manufacturing.
+
+↓
+
+**Material and Component Suppliers**
+
+Provide the underlying industrial inputs.
+
+↓
+
+**Testing, Acceptance and Delivery**
+
+The system is evaluated and delivered according to contractual requirements.
+
+↓
+
+**Military Operation and Support**
+
+The military operates the aircraft, supported by maintenance organisations, OEMs and suppliers.
+
+This is a simplified representation. In practice, the military may be involved in requirement definition, evaluation, testing and acceptance throughout the programme.
+
+## 7.3 Compare the two ecosystems
+
+| Dimension | Commercial aerospace | Defence aerospace |
+|---|---|---|
+| Primary customer | Airlines and commercial operators | Government and military organisations |
+| End user | Passengers, cargo operators and pilots | Military personnel |
+| Funding | Commercial revenue, leasing and finance | Government budgets |
+| Procurement | Commercial purchasing and leasing | Government procurement |
+| Main product objective | Safety, efficiency and commercial performance | Mission capability and national security |
+| Regulation | Civil aviation authorities | Military authorities and applicable national frameworks |
+| Suppliers | Global industrial supply chains | Domestic and international defence supply chains |
+| Major risks | Cost, competition, safety and demand | Security, technology, geopolitics and programme risk |
+| Lifecycle support | MRO, spare parts and upgrades | Military maintenance, logistics and upgrades |
+
+Both ecosystems require engineering excellence, reliability, manufacturing quality and lifecycle support.
+
+However, their customers, procurement mechanisms and strategic considerations differ.
+
+## 7.4 The concept of value chains
+
+A value chain describes the activities through which an organisation creates value for a customer.
+
+In aerospace, value creation can occur at multiple stages.
+
+For example:
+
+| Stage | Value created |
+|---|---|
+| Research | New scientific and technological knowledge |
+| Design | Product architecture and engineering solutions |
+| Materials | Performance and structural capability |
+| Manufacturing | Physical components and systems |
+| Integration | Functional and interoperable products |
+| Testing | Evidence of performance and reliability |
+| Certification | Demonstrated regulatory compliance |
+| Operation | Transportation, defence or space capabilities |
+| Maintenance | Continued operational availability |
+| Upgrades | Improved performance and extended service life |
+
+An organisation can capture value by specialising in any one of these stages.
+
+This is important because the largest company in a supply chain does not necessarily capture all the value.
+
+A specialised supplier may possess critical intellectual property, proprietary processes or technology that gives it considerable strategic importance.
+
+## 7.5 The difference between a supply chain and an ecosystem
+
+These terms are related but not identical.
+
+### Supply chain
+
+A supply chain focuses on the movement of materials, components, products and services between organisations.
+
+Example:
+
+Raw materials → Components → Subsystems → Aircraft.
+
+### Ecosystem
+
+An ecosystem includes the wider network of organisations, institutions and relationships required for an industry to function.
+
+It includes:
+
+- Manufacturers.
+- Suppliers.
+- Customers.
+- Regulators.
+- Research organisations.
+- Universities.
+- Financial institutions.
+- Governments.
+- Infrastructure providers.
+- Technology companies.
+
+A supply chain is therefore one part of a broader industrial ecosystem.
+
+## 7.6 Strategic dependencies
+
+Aerospace programmes often depend on technologies or suppliers that are difficult to replace.
+
+Examples include:
+
+- Aircraft engines.
+- Semiconductor components.
+- Advanced materials.
+- Flight control computers.
+- Radar systems.
+- Specialised manufacturing processes.
+- Software and engineering tools.
+
+If one supplier becomes unavailable, an entire programme may experience delays.
+
+This is called supply chain dependency.
+
+### Why does it matter?
+
+Strategic dependencies influence:
+
+- National security.
+- Manufacturing independence.
+- Production schedules.
+- Export restrictions.
+- Long-term maintenance.
+- Technology transfer.
+- Industrial competitiveness.
+
+For countries developing their domestic aerospace industries, reducing critical dependencies can become a major strategic objective.
+
+## 7.7 How to analyse an aerospace company
+
+When studying any aerospace organisation, use the following framework.
+
+### Company analysis framework
+
+1. **Identity:** What does the company do?
+2. **Sector:** Civilian aerospace, military aerospace, space or a combination?
+3. **Position:** OEM, Tier-1 supplier, lower-tier supplier, software provider, MRO or system integrator?
+4. **Products:** What does it manufacture or develop?
+5. **Customers:** Who purchases its products or services?
+6. **Technology:** What technical capabilities does it possess?
+7. **Supply chain:** Which organisations supply it?
+8. **Revenue model:** How does it generate income?
+9. **Competition:** Which companies offer competing products?
+10. **Dependencies:** Which technologies, suppliers or customers are critical to its business?
+11. **Barriers to entry:** What makes it difficult for a new competitor to enter?
+12. **Growth opportunities:** Which emerging technologies or markets could expand its business?
+
+This framework can be used to analyse companies such as Airbus, HAL, GE Aerospace, Safran, BEL, SpaceX and aerospace startups.
+
+## 7.8 Final Week 1 case study
+
+### Case: Building a new indigenous surveillance UAV
+
+Imagine that the Indian government identifies a requirement for a domestically developed surveillance UAV.
+
+You are required to map the complete ecosystem.
+
+#### Step 1 — Define the customer
+
+- Who requires the UAV?
+- Which military organisation will operate it?
+- What operational problem must it solve?
+
+#### Step 2 — Identify the procurement structure
+
+- Which government authority is responsible?
+- Which organisation manages procurement?
+- How will the programme be funded?
+- What type of procurement arrangement could be used?
+
+#### Step 3 — Identify the prime contractor
+
+- Which company could lead the programme?
+- What responsibilities would it hold?
+- Would it develop the UAV independently or coordinate suppliers?
+
+#### Step 4 — Identify the industrial suppliers
+
+Consider:
+
+- Airframe manufacturers.
+- Composite material suppliers.
+- Propulsion manufacturers.
+- Avionics suppliers.
+- Navigation system suppliers.
+- Communication system suppliers.
+- Sensor manufacturers.
+- Battery suppliers.
+- Embedded software developers.
+
+#### Step 5 — Identify the software ecosystem
+
+Consider:
+
+- Flight control software.
+- Navigation software.
+- Ground control software.
+- Mission planning.
+- Sensor data processing.
+- Fleet management.
+- Maintenance analytics.
+
+#### Step 6 — Identify the testing and regulatory environment
+
+Consider:
+
+- Structural testing.
+- Propulsion testing.
+- Flight testing.
+- Software verification.
+- Communication testing.
+- Military acceptance.
+- Applicable airworthiness and operational approvals.
+
+#### Step 7 — Identify the lifecycle ecosystem
+
+Consider:
+
+- Maintenance.
+- Spare parts.
+- Repairs.
+- Software updates.
+- Training.
+- Operational support.
+- Upgrades.
+
+#### Step 8 — Identify startup opportunities
+
+Identify at least five areas where a smaller company could supply a specialised product or service without becoming the prime contractor.
+
+For each opportunity, explain:
+
+- The problem.
+- The proposed solution.
+- The customer.
+- The required technology.
+- The potential barriers to entry.
+
+---
+
+# Master Glossary
+
+| Term | Meaning |
+|---|---|
+| Aerospace | Industry covering atmospheric and space flight systems |
+| Aeronautics | Science and technology of flight within the atmosphere |
+| Astronautics | Science and technology of spaceflight |
+| OEM | Original Equipment Manufacturer |
+| Tier-1 | Supplier directly providing major systems or assemblies to a higher-level customer, often the OEM |
+| Tier-2 | Supplier providing components or subsystems to higher-tier suppliers |
+| Tier-3 | Lower-level supplier providing parts, materials or specialised services |
+| Prime Contractor | Main contractor responsible for delivering a contracted programme or system |
+| Subcontractor | Organisation contracted by another contractor to perform part of a programme |
+| MRO | Maintenance, Repair and Overhaul |
+| Avionics | Electronic systems used in aircraft and spacecraft |
+| Propulsion | Technology used to generate thrust or mechanical power |
+| Systems Integration | Combining components and subsystems into a functioning system |
+| Airworthiness | Condition of an aircraft being safe and suitable for operation under applicable requirements |
+| Certification | Formal demonstration of compliance with specified requirements |
+| Procurement | Process of acquiring goods, services or systems |
+| Indigenisation | Development or production of capabilities within a country's domestic industrial base |
+| RFI | Request for Information |
+| RFP | Request for Proposal |
+| UAV | Unmanned Aerial Vehicle |
+| CAD | Computer-Aided Design |
+| CFD | Computational Fluid Dynamics |
+| FEA | Finite Element Analysis |
+| Embedded Software | Software operating within a dedicated hardware system |
+| Supply Chain | Network involved in supplying materials, components and products |
+| Value Chain | Activities through which an organisation creates value |
+| Lifecycle Support | Maintenance, repair, upgrades and other support throughout a product's service life |
+
+---
+
+# End-of-Week Assessment
+
+## Part A — Conceptual understanding
+
+Answer in your own words.
+
+1. Explain the aerospace industry ecosystem.
+2. Differentiate between OEMs, Tier-1 suppliers, Tier-2 suppliers and Tier-3 suppliers.
+3. Explain why an OEM depends on specialised suppliers.
+4. Differentiate between engine manufacturers and avionics companies.
+5. Explain the role of system integrators.
+6. Differentiate between airlines, airports and MRO organisations.
+7. Explain the role of regulators in civil aviation.
+8. Explain the relationship between governments, militaries and procurement authorities.
+9. Differentiate between a prime contractor and a Tier-1 supplier.
+10. Explain how research organisations and universities contribute to aerospace innovation.
+
+## Part B — Application
+
+Choose three organisations from the aerospace industry and analyse them using the company analysis framework from Day 7.
+
+At least one organisation should be:
+
+- An OEM or prime contractor.
+- A specialised supplier.
+- A software company or startup.
+
+## Part C — Ecosystem mapping
+
+Prepare two diagrams.
+
+**Diagram 1 — Commercial aerospace supply chain**
+
+Raw Material Suppliers → Tier-3 → Tier-2 → Tier-1 → OEM → Airline → MRO
+
+Include regulators, airports, research organisations and software companies in their relevant positions.
+
+**Diagram 2 — Defence procurement ecosystem**
+
+Government → Military Requirements → Procurement Authority → Prime Contractor → Suppliers → Testing and Acceptance → Military Operation
+
+Include the roles of research organisations, defence startups, regulators or military airworthiness authorities, and MRO organisations.
+
+## Part D — Strategic thinking
+
+Answer the following:
+
+1. Which parts of the aerospace ecosystem require the highest levels of technical expertise?
+2. Which parts require the greatest capital investment?
+3. Which parts have the most demanding certification or qualification barriers?
+4. Can a small startup become an important aerospace supplier without manufacturing an entire aircraft?
+5. Why might a specialised software company become strategically important to a defence programme?
+6. What makes an aerospace supplier difficult to replace?
+7. Which areas of the aerospace ecosystem offer opportunities for domestic technological development?
+
+---
+
+## Week 1 Completion Criteria
+
+By the end of this week, you should be able to:
+
+- [ ] Explain the complete aerospace ecosystem without referring to notes.
+- [ ] Distinguish between commercial and military aerospace.
+- [ ] Explain the OEM–Tier-1–Tier-2–Tier-3 supplier hierarchy.
+- [ ] Identify the major types of aerospace manufacturers.
+- [ ] Explain the roles of engine and avionics manufacturers.
+- [ ] Distinguish between software companies and system integrators.
+- [ ] Explain the role of airlines, airports and MROs.
+- [ ] Map the government-to-prime-contractor defence procurement structure.
+- [ ] Identify the functions of regulators, research organisations and universities.
+- [ ] Explain where startups can enter the aerospace value chain.
+- [ ] Analyse an aerospace company using a structured framework.
+- [ ] Map a hypothetical aerospace programme from requirement to operation.
+
+**Final learning objective:** Do not merely memorise what each organisation does. Understand why it exists, whom it serves, what it supplies, whom it depends on and how it creates economic or strategic value.
+
+---
