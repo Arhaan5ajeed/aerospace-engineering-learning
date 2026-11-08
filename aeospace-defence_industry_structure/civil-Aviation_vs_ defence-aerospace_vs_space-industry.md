@@ -350,3 +350,324 @@ Some technologies may belong to multiple sectors. Explain why.
 5. Why does the intended mission influence engineering design?
 
 ---
+
+# Day 2 — Civil Aviation: Safety, Airworthiness and Commercial Operations
+
+> **Objective:** Understand the civil aviation industry's safety-first philosophy, commercial operating model, airworthiness requirements, certification processes and passenger transportation ecosystem.
+
+## 2.1 What makes civil aviation different?
+
+Civil aviation operates in a highly regulated environment where safety is a fundamental requirement.
+
+Commercial aircraft transport large numbers of passengers and operate repeatedly across national and international airspace.
+
+An aircraft may perform several flights each day and remain in service for decades.
+
+Therefore, the industry requires systems that can operate reliably over long periods while satisfying strict safety requirements.
+
+Civil aviation is not simply about designing an aircraft that can fly.
+
+It is about designing an aircraft that can operate safely, consistently and economically throughout its service life.
+
+## 2.2 Safety
+
+Safety refers to the condition in which risks are reduced and controlled to an acceptable level.
+
+In aviation, safety cannot be established through a single inspection or test.
+
+It requires a continuous system involving:
+
+- Safe aircraft design.
+- Manufacturing quality.
+- Maintenance.
+- Pilot training.
+- Operational procedures.
+- Air traffic management.
+- Airport infrastructure.
+- Safety reporting.
+- Risk assessment.
+- Regulatory oversight.
+
+### Why is aviation safety so demanding?
+
+Aircraft operate in an environment where failures can have serious consequences.
+
+Potential hazards include:
+
+- Engine failure.
+- Structural fatigue.
+- Loss of hydraulic pressure.
+- Electrical failures.
+- Sensor malfunctions.
+- Software faults.
+- Bird strikes.
+- Severe weather.
+- Human error.
+- Maintenance errors.
+
+Engineers must identify possible failure conditions and establish appropriate prevention, detection and mitigation measures.
+
+### Reliability and safety
+
+Reliability and safety are related but not identical.
+
+**Reliability** refers to the probability that a system performs its intended function without failure for a specified period under specified conditions.
+
+**Safety** concerns whether risks associated with the system are acceptably controlled.
+
+A highly reliable system can still have unsafe failure modes.
+
+For example, a system may fail infrequently but have a dangerous failure mode when it does fail.
+
+Therefore, aerospace engineers consider both reliability and the consequences of failure.
+
+## 2.3 Safety management systems
+
+A Safety Management System (SMS) is an organised framework for managing safety risks.
+
+It typically involves:
+
+1. Safety policy and objectives.
+2. Safety risk management.
+3. Safety assurance.
+4. Safety promotion.
+
+An SMS helps organisations identify hazards, assess risks, monitor performance and improve safety practices.
+
+SMS principles are used across different aviation organisations, including operators, maintenance organisations and other aviation service providers.
+
+### Hazard versus risk
+
+These terms should not be confused.
+
+**Hazard:** A condition or object with the potential to cause harm.
+
+**Risk:** The assessment of the likelihood and severity of the consequences associated with a hazard.
+
+For example:
+
+- Hazard: A damaged aircraft component.
+- Potential consequence: Component failure during operation.
+- Risk: Determined by evaluating the probability and severity of the resulting failure.
+
+## 2.4 Airworthiness
+
+Airworthiness is one of the most important concepts in civil aviation.
+
+It refers to the condition of an aircraft or aeronautical product being safe and suitable for operation in accordance with applicable requirements.
+
+An aircraft must satisfy the relevant airworthiness standards before it can enter service.
+
+However, airworthiness is not a one-time achievement.
+
+It must be maintained throughout the aircraft's operational life.
+
+### Initial airworthiness
+
+Initial airworthiness concerns the aircraft's design and production compliance before it enters service.
+
+It involves:
+
+- Approved design.
+- Structural integrity.
+- System safety.
+- Performance requirements.
+- Manufacturing conformity.
+- Required testing.
+- Certification.
+
+### Continuing airworthiness
+
+Continuing airworthiness concerns maintaining the aircraft in a condition that remains compliant with applicable requirements throughout its operational life.
+
+It involves:
+
+- Scheduled maintenance.
+- Inspections.
+- Repairs.
+- Modifications.
+- Airworthiness directives.
+- Component replacement.
+- Maintenance records.
+- Configuration control.
+
+### Example
+
+Suppose an aircraft is certified and enters commercial service.
+
+After several years, an inspection identifies fatigue cracking in a structural component.
+
+The operator must follow the applicable approved maintenance and airworthiness procedures.
+
+Depending on the findings, this may involve inspection, repair, replacement or other corrective action.
+
+The fact that the aircraft was originally certified does not remove the need to maintain its airworthiness.
+
+## 2.5 Aircraft certification
+
+Certification is the formal process of demonstrating that an aircraft or aeronautical product complies with applicable requirements.
+
+Certification is not simply a manufacturer's declaration that its aircraft is safe.
+
+It involves evidence, evaluation and approval by the relevant authority.
+
+### Major certification activities
+
+- Requirements definition.
+- Design evaluation.
+- Structural analysis.
+- Ground testing.
+- Flight testing.
+- System safety assessment.
+- Software and hardware assurance.
+- Production conformity.
+- Documentation.
+- Regulatory review.
+
+### Important certification terminology
+
+**Type Certificate**
+
+Approval of an aircraft type design that has demonstrated compliance with applicable airworthiness standards.
+
+**Production Approval**
+
+Approval or acceptance of the production system under the applicable regulatory framework.
+
+**Certificate of Airworthiness**
+
+A document issued or recognised by the relevant authority for an individual aircraft that establishes its airworthiness status under the applicable framework.
+
+**Supplemental Type Certificate**
+
+An approval for a modification to an aircraft's type design.
+
+These terms are related but do not represent the same approval.
+
+## 2.6 Commercial aircraft operations
+
+Civil aviation is also a commercial business.
+
+Airlines acquire aircraft to generate revenue through passenger and cargo transportation.
+
+Their business performance depends on several variables.
+
+### Revenue factors
+
+- Passenger demand.
+- Ticket prices.
+- Cargo demand.
+- Route selection.
+- Aircraft capacity.
+- Load factor.
+- Additional services.
+
+### Cost factors
+
+- Fuel.
+- Aircraft leasing or financing.
+- Maintenance.
+- Airport charges.
+- Personnel.
+- Insurance.
+- Navigation charges.
+- Spare parts.
+- Ground operations.
+
+### Load factor
+
+Load factor measures how much of an airline's available passenger or cargo capacity is utilised.
+
+For passenger airlines, it is commonly expressed as:
+
+$$
+\text{Load Factor}=\frac{\text{Revenue Passenger Kilometres}}{\text{Available Seat Kilometres}}\times 100
+$$
+
+A higher load factor generally indicates better utilisation of available seating capacity, although profitability depends on other revenue and cost factors as well.
+
+### Why does aircraft efficiency matter?
+
+Fuel represents a major operating expense for many airlines.
+
+An aircraft with improved fuel efficiency can reduce operating costs over thousands of flight hours.
+
+This is one reason why aircraft OEMs continuously invest in:
+
+- Aerodynamic improvements.
+- Engine efficiency.
+- Lightweight materials.
+- Improved flight management systems.
+- Reduced maintenance requirements.
+
+## 2.7 Passengers and the human factor
+
+Civil aviation is designed around the safe transportation of people and cargo.
+
+Passenger considerations include:
+
+- Cabin safety.
+- Emergency evacuation.
+- Cabin pressure.
+- Temperature control.
+- Noise.
+- Accessibility.
+- Passenger comfort.
+- Human factors.
+
+Human factors engineering studies how people interact with machines, systems and procedures.
+
+It is important because aircraft operation involves pilots, cabin crew, air traffic controllers, maintenance personnel and ground staff.
+
+A technically excellent aircraft must also be operable by trained humans under realistic conditions.
+
+## 2.8 Major civil aviation regulators
+
+Examples include:
+
+| Organisation | Role |
+|---|---|
+| FAA | United States civil aviation regulator |
+| EASA | European Union aviation safety agency |
+| DGCA | India's Directorate General of Civil Aviation |
+| UK CAA | United Kingdom Civil Aviation Authority |
+
+The International Civil Aviation Organization (ICAO) is a specialised agency of the United Nations.
+
+ICAO develops international Standards and Recommended Practices for civil aviation.
+
+It is important to distinguish ICAO from national regulators.
+
+ICAO establishes an international framework, while national authorities implement and enforce applicable requirements within their jurisdictions.
+
+## 2.9 Day 2 exercise
+
+Select a commercial passenger aircraft.
+
+Research:
+
+1. Its manufacturer.
+2. Its engine options.
+3. Its type certification basis.
+4. Its typical airline customers.
+5. Its operating range and passenger capacity.
+6. Its maintenance requirements.
+7. Its commercial advantages.
+8. Its major safety considerations.
+
+Then answer:
+
+Why might an airline choose one aircraft model over another even if both can perform the same route?
+
+**End-of-day questions**
+
+1. What is the difference between safety and reliability?
+2. What is airworthiness?
+3. Differentiate between initial and continuing airworthiness.
+4. What is a Type Certificate?
+5. Why is aircraft certification necessary?
+6. What is a Safety Management System?
+7. How does fuel efficiency influence airline profitability?
+8. Why are human factors important in aviation?
+
+---
