@@ -671,3 +671,343 @@ Why might an airline choose one aircraft model over another even if both can per
 8. Why are human factors important in aviation?
 
 ---
+
+# Day 3 — Defence Aerospace: Mission Capability and Military Requirements
+
+> **Objective:** Understand how military aerospace systems are developed around operational requirements, mission effectiveness, security, qualification, procurement and lifecycle support.
+
+## 3.1 What makes defence aerospace different?
+
+Defence aerospace is designed around military requirements.
+
+A military aircraft is not necessarily designed to transport passengers economically or maximise commercial profitability.
+
+Instead, it is designed to fulfil specific missions.
+
+Examples include:
+
+- Air superiority.
+- Ground attack.
+- Surveillance.
+- Reconnaissance.
+- Air transport.
+- Search and rescue.
+- Maritime patrol.
+- Electronic warfare.
+- Intelligence gathering.
+- Military logistics.
+
+The aircraft's design is therefore influenced by the operational environment and the mission it must perform.
+
+## 3.2 Mission capability
+
+Mission capability refers to the ability of a system to perform its intended military role.
+
+Consider a hypothetical military surveillance aircraft.
+
+Its mission may require it to:
+
+- Remain airborne for extended periods.
+- Collect information using sensors.
+- Operate in difficult environmental conditions.
+- Communicate with command centres.
+- Process and transmit mission data.
+- Maintain reliable operation during demanding missions.
+
+The aircraft's performance is evaluated against these operational requirements.
+
+### Mission requirements versus general performance
+
+An aircraft may have excellent speed and manoeuvrability but still be unsuitable for a surveillance mission if it lacks the required sensors, endurance or communication capabilities.
+
+Therefore, military performance must be evaluated in the context of the intended mission.
+
+## 3.3 Military requirements
+
+Military requirements are translated into technical and operational specifications.
+
+These may include:
+
+### Performance requirements
+
+- Maximum speed.
+- Operating altitude.
+- Range.
+- Endurance.
+- Payload.
+- Manoeuvrability.
+- Climb performance.
+
+### Mission requirements
+
+- Sensor capability.
+- Navigation.
+- Communication.
+- Mission equipment.
+- Data processing.
+- Interoperability.
+
+### Environmental requirements
+
+- Temperature.
+- Humidity.
+- Vibration.
+- Shock.
+- Dust.
+- Rain.
+- Electromagnetic interference.
+- Corrosion.
+
+### Operational requirements
+
+- Reliability.
+- Maintainability.
+- Availability.
+- Deployability.
+- Training.
+- Logistics.
+- Support infrastructure.
+
+A military system must satisfy a combination of technical and operational requirements rather than one isolated performance metric.
+
+## 3.4 Survivability and robustness
+
+Military aerospace systems may operate in environments where they face hostile conditions and threats.
+
+Survivability refers to the ability of a system and its mission to withstand or manage threats and adverse conditions.
+
+It can involve:
+
+- Structural robustness.
+- Redundancy.
+- Damage tolerance.
+- Electronic protection.
+- Cybersecurity.
+- Signature management.
+- Secure communication.
+- Fault detection and recovery.
+
+The specific requirements depend on the mission and platform.
+
+### Redundancy
+
+Redundancy means providing additional components or pathways so that a system can continue operating if one element fails.
+
+For example, an aircraft may use multiple independent systems for critical functions.
+
+Redundancy improves resilience, but it also increases:
+
+- Weight.
+- Cost.
+- Complexity.
+- Maintenance requirements.
+
+Engineers must balance the benefits of redundancy against its disadvantages.
+
+## 3.5 Security and classification
+
+Defence programmes may involve sensitive or classified information.
+
+This information may include:
+
+- System architecture.
+- Sensor capabilities.
+- Performance specifications.
+- Operational procedures.
+- Mission data.
+- Software.
+- Communications.
+- Technical documentation.
+
+Access to sensitive information is controlled according to applicable national laws and security requirements.
+
+### Why does classification matter?
+
+A defence system may contain technologies or information that could provide an advantage to an adversary if disclosed.
+
+Therefore, organisations may implement:
+
+- Personnel security checks.
+- Access controls.
+- Secure communication.
+- Classified facilities.
+- Information handling procedures.
+- Cybersecurity controls.
+- Export restrictions.
+
+### Classification versus export control
+
+These are not identical.
+
+**Classification** concerns the protection of information based on its sensitivity and potential security impact.
+
+**Export control** concerns restrictions on transferring specified goods, software, technology or technical information across borders.
+
+An item may be export-controlled without being classified.
+
+Likewise, classified information may be subject to additional restrictions beyond ordinary export controls.
+
+## 3.6 Qualification
+
+Qualification is the process of demonstrating that a product, component or system satisfies specified technical, environmental and performance requirements for its intended use.
+
+In defence aerospace, qualification may involve testing under demanding conditions.
+
+Examples include:
+
+- Temperature testing.
+- Vibration testing.
+- Shock testing.
+- Humidity testing.
+- Electromagnetic compatibility testing.
+- Environmental exposure testing.
+- Performance testing.
+- Reliability assessment.
+
+### Why is qualification important?
+
+A component may work perfectly in a laboratory but fail when exposed to vibration, temperature changes or other operational conditions.
+
+Qualification provides evidence that the component can satisfy the specified requirements in its intended environment.
+
+### Certification versus qualification
+
+These terms should not be used interchangeably.
+
+**Certification** generally refers to formal approval or recognition that applicable requirements have been satisfied under a defined regulatory or approval framework.
+
+**Qualification** demonstrates that a product or system meets specified technical requirements for its intended application.
+
+A qualified component is not automatically certified for every application.
+
+Likewise, certification does not eliminate the need for ongoing qualification, verification or testing where required.
+
+## 3.7 Procurement
+
+Defence aerospace acquisition is generally organised through government procurement.
+
+The military identifies a capability requirement.
+
+The government and relevant procurement authorities determine how the requirement will be fulfilled.
+
+Possible acquisition routes include:
+
+- Indigenous development.
+- Domestic procurement.
+- Foreign procurement.
+- Government-to-government arrangements.
+- Licensed production.
+- Collaborative development.
+- Private-sector contracting.
+
+### Why are defence procurement cycles long?
+
+Major military systems involve:
+
+- Complex technical requirements.
+- Large financial commitments.
+- Security assessments.
+- Testing and evaluation.
+- Contract negotiations.
+- Industrial participation.
+- Technology transfer considerations.
+- Long-term maintenance planning.
+
+The procurement process can therefore extend over many years.
+
+## 3.8 Lifecycle support
+
+A military aircraft is not useful simply because it has been delivered.
+
+It must remain available for military operations.
+
+Lifecycle support includes:
+
+- Maintenance.
+- Spare parts.
+- Repair.
+- Overhaul.
+- Technical documentation.
+- Training.
+- Software updates.
+- Equipment upgrades.
+- Logistics.
+- Ground support equipment.
+
+### Operational availability
+
+Operational availability refers broadly to the proportion of time a system is available for its intended operational use.
+
+A military aircraft with excellent technical specifications but frequent maintenance problems may provide limited operational value.
+
+For example, an aircraft fleet may contain 100 aircraft, but only a fraction may be available for operations at a particular time.
+
+The number of available aircraft depends on maintenance, logistics, operational schedules and other factors.
+
+### Why maintainability matters
+
+Maintainability concerns how easily and quickly a system can be inspected, serviced, repaired or restored.
+
+A system designed for maintainability may:
+
+- Require less maintenance time.
+- Allow easier access to components.
+- Use modular assemblies.
+- Simplify fault diagnosis.
+- Reduce downtime.
+
+This makes maintainability an important design consideration from the beginning of a military programme.
+
+## 3.9 Defence aerospace business models
+
+Defence companies may generate revenue through:
+
+- Development contracts.
+- Production contracts.
+- Component supply.
+- System integration.
+- Upgrade programmes.
+- Maintenance contracts.
+- Training services.
+- Technical support.
+- Spare parts.
+- Long-term sustainment agreements.
+
+A company may continue receiving revenue from a military platform long after the original aircraft has been delivered.
+
+## 3.10 Day 3 exercise
+
+Select a military aerospace platform.
+
+Examples:
+
+- Fighter aircraft.
+- Military transport aircraft.
+- Helicopter.
+- Surveillance UAV.
+- Military satellite.
+
+Analyse:
+
+1. What is its primary mission?
+2. Who is the customer?
+3. What are its major performance requirements?
+4. What makes it suitable for its mission?
+5. What environmental conditions must it withstand?
+6. What qualification activities might be necessary?
+7. What security requirements may apply?
+8. What lifecycle support is required?
+
+**End-of-day questions**
+
+1. What is mission capability?
+2. Why are military aircraft designed around specific operational requirements?
+3. What is survivability?
+4. What is the purpose of redundancy?
+5. Differentiate between classification and export control.
+6. What is qualification?
+7. Differentiate between certification and qualification.
+8. Why is operational availability important?
+9. Why must lifecycle support be considered during the design stage?
+
+---
