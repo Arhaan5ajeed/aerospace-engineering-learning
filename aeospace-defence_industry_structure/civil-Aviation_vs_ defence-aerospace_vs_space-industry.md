@@ -1444,3 +1444,372 @@ Explain what each part contributes to the overall mission.
 9. How do satellite operators generate commercial revenue?
 
 ---
+
+# Day 5 — Regulations, Certification, Qualification and International Obligations
+
+> **Objective:** Understand the different regulatory and approval frameworks governing civil aviation, defence aerospace and space activities, including international obligations.
+
+## 5.1 Why does aerospace require regulation?
+
+Aerospace systems operate in environments where failures can have significant consequences.
+
+They may:
+
+- Carry passengers.
+- Operate in shared airspace.
+- Perform military missions.
+- Launch payloads into orbit.
+- Generate radio-frequency interference.
+- Create risks for other spacecraft.
+- Affect national security.
+
+Regulation establishes frameworks for safety, accountability, operational coordination and international responsibility.
+
+However, the regulatory systems differ considerably across civil aviation, defence and space.
+
+## 5.2 Civil aviation regulation
+
+Civil aviation is governed by a mature international and national regulatory framework.
+
+### ICAO
+
+The International Civil Aviation Organization is a United Nations specialised agency.
+
+It develops international Standards and Recommended Practices through its annexes to the Chicago Convention.
+
+Its work covers areas such as:
+
+- Personnel licensing.
+- Rules of the air.
+- Aircraft operations.
+- Airworthiness.
+- Aerodromes.
+- Air traffic services.
+- Accident investigation.
+- Aviation security.
+
+ICAO is not a worldwide aircraft certification authority.
+
+National authorities are responsible for implementing and enforcing applicable requirements within their jurisdictions.
+
+### National aviation authorities
+
+Examples:
+
+- FAA in the United States.
+- EASA in the European Union.
+- DGCA in India.
+- UK CAA in the United Kingdom.
+
+These authorities perform functions such as:
+
+- Aircraft certification.
+- Airworthiness oversight.
+- Operator approvals.
+- Maintenance organisation oversight.
+- Personnel licensing.
+- Aviation safety regulation.
+
+### Chicago Convention
+
+The Convention on International Civil Aviation, signed in 1944, established the foundation of the modern international civil aviation system.
+
+It provides a framework for international cooperation and the regulation of civil aviation.
+
+## 5.3 Defence qualification and regulatory frameworks
+
+Defence aerospace systems are generally acquired according to military requirements and applicable national defence frameworks.
+
+The military customer may establish technical requirements and qualification procedures.
+
+These can involve:
+
+- Environmental testing.
+- Performance testing.
+- Reliability testing.
+- Interoperability assessment.
+- Operational evaluation.
+- Military airworthiness approval.
+- Security evaluation.
+
+### Military airworthiness
+
+Military aircraft operate under national military airworthiness arrangements.
+
+In India, the Centre for Military Airworthiness and Certification (CEMILAC), under DRDO, plays an important role in military airworthiness certification.
+
+The Directorate General of Aeronautical Quality Assurance (DGAQA) is also an important organisation involved in quality assurance for military aerospace and defence equipment.
+
+The exact responsibilities and approval processes depend on the programme and applicable framework.
+
+### Standards and specifications
+
+Military programmes may refer to standards covering:
+
+- Environmental conditions.
+- Electromagnetic compatibility.
+- Materials.
+- Manufacturing.
+- Reliability.
+- Testing.
+- Quality assurance.
+
+For example, the MIL-STD family contains United States military standards.
+
+However, a military standard is not automatically a universal requirement for every defence programme.
+
+Its applicability depends on the contract, procurement requirements and relevant authority.
+
+## 5.4 Space regulation
+
+Space activities involve both national regulation and international law.
+
+Unlike civil aviation, there is no single global space regulator that issues all launch and satellite operating licences.
+
+States regulate space activities through national legal frameworks while also carrying international obligations under space treaties.
+
+### National space regulation
+
+Countries establish legal and administrative frameworks for:
+
+- Launch authorisation.
+- Satellite operation.
+- Space activities.
+- Frequency use.
+- Remote sensing.
+- Launch facility operation.
+- Liability and insurance requirements.
+- Registration and supervision.
+
+### India's space regulatory ecosystem
+
+Important participants include:
+
+**Department of Space (DoS)**
+
+The government department responsible for India's space programme and related policy and institutional responsibilities.
+
+**ISRO**
+
+India's national space agency, responsible for major space research, development and mission activities.
+
+**IN-SPACe**
+
+The Indian National Space Promotion and Authorisation Centre.
+
+It serves as an interface for promoting and authorising eligible non-government space activities in India under the applicable national framework.
+
+**NSIL**
+
+NewSpace India Limited.
+
+A government-owned company involved in commercialising space technologies and services and supporting commercial space activities.
+
+These organisations have different functions. They should not be treated as interchangeable.
+
+## 5.5 International space law
+
+Space activities involve international obligations because outer space is not treated as the territory of a state.
+
+Several United Nations treaties form the foundation of international space law.
+
+### A. Outer Space Treaty (1967)
+
+The Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies.
+
+Important principles include:
+
+- Exploration and use of outer space for the benefit and interests of all countries.
+- Freedom of exploration and use, subject to international law.
+- No national appropriation of outer space.
+- State responsibility for national space activities.
+- International responsibility for damage caused by space objects.
+- Restrictions concerning the placement of nuclear weapons and other weapons of mass destruction in orbit and the militarisation of celestial bodies as specified in the treaty.
+
+The treaty does not prohibit every military activity in outer space.
+
+Its specific provisions must be read carefully.
+
+### B. Rescue Agreement (1968)
+
+The Agreement on the Rescue of Astronauts, the Return of Astronauts and the Return of Objects Launched into Outer Space.
+
+It establishes obligations concerning assistance to astronauts and the return of certain space objects under specified circumstances.
+
+### C. Liability Convention (1972)
+
+The Convention on International Liability for Damage Caused by Space Objects.
+
+It establishes an international framework for liability for damage caused by space objects.
+
+Broadly:
+
+- A launching state is absolutely liable for damage caused on the surface of the Earth or to aircraft in flight.
+- Liability for damage caused elsewhere than on the Earth's surface is based on fault under the convention.
+
+### D. Registration Convention (1975)
+
+The Convention on Registration of Objects Launched into Outer Space.
+
+It establishes registration-related obligations for space objects.
+
+Registration helps identify objects launched into space and supports transparency and accountability.
+
+### E. Moon Agreement (1979)
+
+The Agreement Governing the Activities of States on the Moon and Other Celestial Bodies.
+
+It addresses activities on the Moon and other celestial bodies.
+
+Its participation is much more limited than that of the Outer Space Treaty.
+
+### Important concept: Launching state
+
+A launching state is a state that launches or procures the launching of a space object, or from whose territory or facility a space object is launched, according to the definitions in the Liability Convention and Registration Convention.
+
+More than one state may qualify as a launching state for a particular space object.
+
+## 5.6 International frequency and orbital coordination
+
+Satellites rely on radio-frequency communication.
+
+However, radio-frequency spectrum is a limited resource.
+
+If different satellite systems transmit without coordination, interference can affect communications.
+
+The International Telecommunication Union (ITU) coordinates the international use of radio-frequency spectrum and satellite orbit resources through its regulatory framework.
+
+Important functions include:
+
+- Frequency allocation.
+- Satellite network coordination.
+- International notification.
+- Registration of frequency assignments.
+- Interference management.
+
+The ITU is particularly important for satellite communications and broadcasting.
+
+### Why does this matter?
+
+A company may successfully manufacture a satellite and launch it into orbit.
+
+However, it still needs to operate its communication systems within the applicable spectrum and coordination framework.
+
+Technical capability alone does not establish permission to use every frequency or orbital resource.
+
+## 5.7 Launch regulation and licensing
+
+Launching a rocket involves significant safety, technical and legal considerations.
+
+A launch may require authorisation relating to:
+
+- Launch vehicle operations.
+- Launch site operations.
+- Public safety.
+- Range safety.
+- Payload.
+- Environmental considerations.
+- Insurance.
+- Liability.
+- National security.
+- Radio-frequency use.
+
+The exact licensing framework depends on the country and the nature of the activity.
+
+For example, the United States uses a commercial launch licensing framework administered by the Federal Aviation Administration.
+
+India has its own national framework for authorising space activities, including the role of IN-SPACe.
+
+### Launch authorisation versus spacecraft certification
+
+These should not be confused.
+
+Launch authorisation concerns permission to conduct the launch activity under the applicable legal and regulatory framework.
+
+Spacecraft testing and qualification concern whether the spacecraft satisfies the technical requirements for its intended mission.
+
+One does not automatically replace the other.
+
+## 5.8 International obligations and state responsibility
+
+A major difference between space and ordinary commercial manufacturing is the role of states in international responsibility.
+
+Under the Outer Space Treaty, states bear international responsibility for national space activities, including activities conducted by non-governmental entities.
+
+Non-governmental space activities require authorisation and continuing supervision by the appropriate state.
+
+This means private companies do not operate outside international space law simply because they are privately owned.
+
+National governments have responsibilities relating to the activities they authorise.
+
+## 5.9 Space debris and responsible operations
+
+Space debris refers to non-functional human-made objects in orbit or fragments of such objects.
+
+Examples include:
+
+- Defunct satellites.
+- Spent rocket stages.
+- Fragmentation debris.
+- Mission-related objects.
+
+Space debris creates collision risks for operational spacecraft.
+
+### Why is debris management important?
+
+A collision can generate additional fragments.
+
+These fragments may collide with other objects and create further debris.
+
+This can increase the long-term risk to space operations.
+
+### Mitigation measures
+
+- End-of-life disposal planning.
+- Passivation of spacecraft and rocket stages.
+- Collision avoidance.
+- Responsible mission design.
+- Debris monitoring.
+- Deorbiting where appropriate.
+- Limiting unnecessary release of objects.
+
+Space debris mitigation guidelines and technical standards are important, but not every guideline is itself a binding international treaty obligation.
+
+## 5.10 Day 5 exercise
+
+Create three separate regulatory maps.
+
+### Civil aviation
+
+ICAO → National Aviation Authority → Certification and Oversight → Aircraft Operator
+
+### Defence aerospace
+
+Government and Military Authorities → Military Requirements → Qualification and Approval → Operational Acceptance
+
+### Space
+
+International Space Law → National Authorisation → Launch and Satellite Operations → Registration and Continuing Supervision
+
+For each map, explain:
+
+1. Who establishes the requirements?
+2. Who grants approvals or authorisations?
+3. Who is responsible for compliance?
+4. What happens if the organisation fails to comply?
+5. Which international obligations may apply?
+
+**End-of-day questions**
+
+1. What is the difference between ICAO and a national aviation regulator?
+2. What is the difference between civil aircraft certification and military qualification?
+3. What roles do CEMILAC and DGAQA play in India?
+4. What is the Outer Space Treaty?
+5. What is the purpose of the Liability Convention?
+6. What is a launching state?
+7. Why is satellite frequency coordination necessary?
+8. What is the difference between launch authorisation and spacecraft qualification?
+9. Why do private space companies remain subject to national and international space law?
+10. Why is space debris a long-term concern?
+
+---
