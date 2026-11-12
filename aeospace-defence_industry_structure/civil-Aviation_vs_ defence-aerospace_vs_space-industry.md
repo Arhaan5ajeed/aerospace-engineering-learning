@@ -1813,3 +1813,372 @@ For each map, explain:
 10. Why is space debris a long-term concern?
 
 ---
+
+# Day 6 — Business Models, Economics and Product Lifecycles
+
+> **Objective:** Understand how civil aviation, defence aerospace and the space industry generate revenue, manage costs, acquire customers and support products throughout their operational lifecycles.
+
+## 6.1 Why economics matters in aerospace
+
+Aerospace engineering does not operate independently of economics.
+
+An aircraft may be technically excellent but commercially unsuccessful if its operating costs are too high.
+
+A defence system may satisfy technical requirements but become difficult to acquire if its programme cost exceeds the available budget.
+
+A satellite may successfully operate in orbit but fail as a business if there are insufficient customers for its services.
+
+Engineering decisions therefore influence:
+
+- Manufacturing costs.
+- Development expenditure.
+- Operating costs.
+- Maintenance requirements.
+- Product pricing.
+- Customer demand.
+- Commercial competitiveness.
+
+## 6.2 Civil aviation business model
+
+Civil aviation primarily operates through commercial revenue.
+
+### Aircraft OEM revenue
+
+Aircraft manufacturers may earn revenue through:
+
+- Aircraft sales.
+- Spare parts.
+- Maintenance support.
+- Engineering services.
+- Training.
+- Upgrades.
+- Technical support.
+
+### Airline revenue
+
+Airlines generate revenue through:
+
+- Passenger tickets.
+- Cargo transportation.
+- Ancillary services.
+- Loyalty programmes.
+- Additional commercial services.
+
+### Aircraft leasing
+
+Aircraft leasing companies purchase aircraft and lease them to airlines.
+
+This allows airlines to operate aircraft without necessarily purchasing them outright.
+
+Leasing can reduce upfront capital requirements, although it creates ongoing financial obligations.
+
+### MRO revenue
+
+MRO organisations generate revenue through:
+
+- Scheduled maintenance.
+- Engine overhaul.
+- Component repair.
+- Inspections.
+- Spare parts.
+- Fleet support contracts.
+
+### Important commercial metrics
+
+**ASK — Available Seat Kilometres**
+
+A measure of available passenger capacity.
+
+$$
+ASK=\text{Available Seats}\times\text{Distance Flown}
+$$
+
+**RPK — Revenue Passenger Kilometres**
+
+A measure of passenger traffic.
+
+$$
+RPK=\text{Revenue Passengers}\times\text{Distance Flown}
+$$
+
+**Load Factor**
+
+$$
+\text{Load Factor}=\frac{RPK}{ASK}\times100
+$$
+
+**Aircraft utilisation**
+
+A measure of how intensively an aircraft is used, often expressed in flight hours or cycles over a given period.
+
+These metrics help airlines evaluate operational efficiency and commercial performance.
+
+## 6.3 Defence aerospace business model
+
+Defence aerospace is heavily influenced by government spending and procurement.
+
+### Development contracts
+
+A company may receive a contract to develop a new military system.
+
+This can involve years of engineering, prototyping, testing and evaluation.
+
+### Production contracts
+
+Once a design is accepted or approved for production, the company may receive contracts to manufacture multiple units.
+
+### Upgrade contracts
+
+Military systems may require modernisation throughout their service lives.
+
+Upgrades may include:
+
+- New sensors.
+- Improved avionics.
+- Software updates.
+- Communication improvements.
+- Structural modifications.
+- New mission equipment.
+
+### Lifecycle support contracts
+
+Companies may earn revenue through:
+
+- Maintenance.
+- Spare parts.
+- Technical support.
+- Training.
+- Repairs.
+- Logistics.
+- Overhaul.
+
+### Why are defence contracts different?
+
+Defence contracts may involve:
+
+- Long procurement timelines.
+- Government budgets.
+- Milestone payments.
+- Performance requirements.
+- Security conditions.
+- Export restrictions.
+- Intellectual property provisions.
+- Long-term support obligations.
+
+A defence company may depend on a relatively small number of large government customers.
+
+This creates both opportunities and risks.
+
+## 6.4 Space industry business models
+
+The space industry has several distinct revenue models.
+
+### A. Launch services
+
+A launch company sells the service of transporting payloads into space.
+
+Customers may include:
+
+- Satellite operators.
+- Governments.
+- Research organisations.
+- Commercial space companies.
+
+Revenue may depend on:
+
+- Payload mass.
+- Target orbit.
+- Mission complexity.
+- Launch configuration.
+- Contract terms.
+
+### B. Satellite manufacturing
+
+Companies manufacture satellites and spacecraft for customers.
+
+Revenue may come from:
+
+- Satellite design.
+- Engineering.
+- Manufacturing.
+- Integration.
+- Testing.
+- Delivery.
+- Technical support.
+
+### C. Satellite communication
+
+Satellite operators provide communication capacity or connectivity services.
+
+Potential customers include:
+
+- Telecommunications providers.
+- Airlines.
+- Maritime operators.
+- Governments.
+- Remote communities.
+
+### D. Earth observation
+
+Companies collect and process satellite imagery or other remote sensing data.
+
+Revenue may come from:
+
+- Data subscriptions.
+- Image licensing.
+- Analytics.
+- Monitoring services.
+- Custom intelligence products.
+
+### E. Navigation services
+
+Satellite navigation infrastructure provides positioning, navigation and timing capabilities.
+
+Commercial companies develop receivers, applications and specialised services using these capabilities.
+
+### F. Ground infrastructure
+
+Companies may provide:
+
+- Ground stations.
+- Antenna systems.
+- Mission control software.
+- Satellite operations.
+- Data processing.
+- Communication services.
+
+## 6.5 Development costs and capital requirements
+
+Different aerospace products require different levels of capital investment.
+
+### Civil aircraft
+
+Major costs include:
+
+- Research and development.
+- Prototype development.
+- Manufacturing infrastructure.
+- Certification.
+- Supplier qualification.
+- Testing.
+- Customer support.
+
+### Defence aircraft
+
+Costs may include:
+
+- Research and development.
+- Prototype programmes.
+- Mission systems.
+- Testing.
+- Security infrastructure.
+- Production facilities.
+- Long-term sustainment.
+
+### Launch vehicles and satellites
+
+Costs may include:
+
+- Propulsion development.
+- Launch facilities.
+- Spacecraft manufacturing.
+- Environmental testing.
+- Launch operations.
+- Ground infrastructure.
+- Mission control.
+- Insurance and regulatory compliance.
+
+The capital intensity depends heavily on the product and business model.
+
+A company developing satellite analytics software may require considerably less manufacturing infrastructure than a company building launch vehicles.
+
+## 6.6 Risk and failure economics
+
+The consequences of failure differ across sectors.
+
+### Civil aviation
+
+An aircraft failure may result in serious safety consequences, operational disruption, investigations and financial losses.
+
+### Defence aerospace
+
+A system failure may result in mission failure, loss of equipment, operational consequences and national security implications.
+
+### Space
+
+A launch failure may result in the loss of the payload and launch vehicle.
+
+A spacecraft failure after launch may be difficult or impossible to repair.
+
+These risks influence design margins, redundancy, testing, insurance and business planning.
+
+## 6.7 Product lifecycle comparison
+
+| Stage | Civil aviation | Defence aerospace | Space |
+|---|---|---|---|
+| Requirement | Market and airline demand | Military operational need | Mission and customer objectives |
+| Design | Safety, performance and economics | Mission capability and survivability | Mission success and orbital environment |
+| Testing | Ground and flight testing | Qualification and operational evaluation | Environmental, functional and mission testing |
+| Approval | Civil certification and approvals | Military qualification and acceptance | National authorisation and mission-specific approvals |
+| Acquisition | Purchase or lease | Government procurement | Government, commercial or institutional contracts |
+| Operation | Passenger and cargo flights | Military missions | Spacecraft and satellite operations |
+| Support | MRO and continuing airworthiness | Military maintenance and logistics | Ground support, monitoring and limited servicing |
+| Retirement | Aircraft retirement and disposal | Decommissioning or replacement | Deorbiting, disposal or graveyard orbit as applicable |
+
+## 6.8 Why lifecycle cost matters
+
+The initial purchase price does not represent the total cost of owning and operating an aerospace product.
+
+A useful concept is **Total Cost of Ownership (TCO)**.
+
+TCO considers the costs associated with acquiring, operating, maintaining and eventually retiring a product.
+
+For an aircraft, these may include:
+
+- Purchase or lease.
+- Fuel.
+- Maintenance.
+- Spare parts.
+- Training.
+- Insurance.
+- Infrastructure.
+- Upgrades.
+- Retirement.
+
+For a military system, lifecycle costs may also include specialised logistics, secure infrastructure and long-term mission support.
+
+For a satellite, costs may include launch, ground operations, data processing, communication, insurance and end-of-life disposal.
+
+Engineers must consider lifecycle economics because design decisions made early can significantly influence future costs.
+
+## 6.9 Day 6 exercise
+
+Compare three products:
+
+1. Commercial passenger aircraft.
+2. Military fighter aircraft.
+3. Earth observation satellite.
+
+For each product, identify:
+
+- Who pays for it?
+- Who operates it?
+- How does the manufacturer generate revenue?
+- What are its major development costs?
+- What are its major operating costs?
+- What are its maintenance requirements?
+- What are the consequences of failure?
+- How does the product generate value throughout its lifecycle?
+
+**End-of-day questions**
+
+1. How do airlines generate revenue?
+2. What is the difference between aircraft sales and aircraft leasing?
+3. How do defence companies generate revenue?
+4. What are the major business models in the space industry?
+5. What is Total Cost of Ownership?
+6. Why is lifecycle cost important during aircraft design?
+7. Why can a technically successful satellite still be a commercial failure?
+8. How do failure consequences influence aerospace business models?
+
+---
