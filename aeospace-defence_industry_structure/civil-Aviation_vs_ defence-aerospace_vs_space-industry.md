@@ -2182,3 +2182,512 @@ For each product, identify:
 8. How do failure consequences influence aerospace business models?
 
 ---
+
+# Day 7 — Connecting the Three Sectors
+
+> **Objective:** Integrate the knowledge acquired during the week and develop the ability to analyse aerospace products and companies across civil aviation, defence and space.
+
+## 7.1 The same technology, three different applications
+
+Consider flight control technology.
+
+### Civil aviation application
+
+Flight control systems must:
+
+- Provide predictable aircraft response.
+- Meet applicable safety requirements.
+- Maintain reliability.
+- Support pilot operation.
+- Satisfy certification requirements.
+
+### Defence aerospace application
+
+Flight control systems may need to:
+
+- Support demanding military flight envelopes.
+- Integrate with mission systems.
+- Meet military environmental requirements.
+- Provide appropriate redundancy.
+- Satisfy military qualification and security requirements.
+
+### Space application
+
+Spacecraft attitude control systems must:
+
+- Determine spacecraft orientation.
+- Maintain the required pointing direction.
+- Control angular motion.
+- Support payload operations.
+- Operate reliably in the space environment.
+
+The underlying engineering concepts may overlap, but the system architecture and requirements differ.
+
+## 7.2 Compare three propulsion systems
+
+Consider:
+
+- Commercial turbofan.
+- Military turbofan.
+- Rocket engine.
+
+| Parameter | Commercial turbofan | Military turbofan | Rocket engine |
+|---|---|---|---|
+| Primary purpose | Efficient aircraft propulsion | Military aircraft propulsion | Launch and space propulsion |
+| Operating environment | Atmosphere | Atmosphere | Launch environment and space |
+| Key performance focus | Efficiency and reliability | Thrust and mission performance | Thrust and propulsion efficiency |
+| Fuel system | Air-breathing engine fuel | Air-breathing engine fuel | Propellant system |
+| Oxidiser | Atmospheric oxygen | Atmospheric oxygen | Carried oxidiser for chemical rockets |
+| Maintenance | Extensive scheduled maintenance | Military maintenance and support | Mission- and design-dependent |
+| Typical application | Passenger aircraft | Fighter aircraft | Launch vehicles and spacecraft |
+
+This comparison demonstrates why propulsion engineers cannot treat all aerospace engines as interchangeable.
+
+## 7.3 Compare the three customer structures
+
+### Civil aviation
+
+Airline → Aircraft OEM → Suppliers
+
+The airline is the customer and operator.
+
+Passengers and cargo customers generate demand for the airline's services.
+
+### Defence aerospace
+
+Government → Procurement Authority → Prime Contractor → Suppliers
+
+The government funds and procures the capability.
+
+The military is generally the end user.
+
+### Space
+
+Government or Commercial Customer → Space Company → Suppliers and Launch Providers → Spacecraft Operations → End Users
+
+A space company may sell a launch service, a spacecraft, data or communication capacity.
+
+The end user may be different from the organisation that initially purchases the satellite or launch service.
+
+## 7.4 Compare the approval systems
+
+| Area | Civil aviation | Defence aerospace | Space |
+|---|---|---|---|
+| Primary framework | Civil aviation regulation | Military requirements and national defence frameworks | National space regulation and international space law |
+| Key technical concept | Airworthiness | Qualification and operational acceptance | Mission assurance and spacecraft qualification |
+| Approval authority | Civil aviation regulator | Relevant military authorities | National authorising authorities |
+| International dimension | ICAO framework and national implementation | Security, export controls and international agreements | Space treaties, spectrum coordination and national law |
+
+A critical lesson:
+
+**Certification, qualification, authorisation and mission assurance are related concepts, but they are not interchangeable.**
+
+Each serves a different purpose within its respective framework.
+
+## 7.5 Cross-sector companies
+
+Some companies participate in more than one aerospace sector.
+
+Examples include:
+
+**Airbus**
+
+Participates in commercial aviation, helicopters, defence and space.
+
+**Boeing**
+
+Participates in commercial aviation, defence and space.
+
+**Lockheed Martin**
+
+Primarily associated with defence, but also participates in space systems.
+
+**Safran**
+
+Participates in aircraft propulsion, equipment and defence-related aerospace technologies.
+
+**RTX**
+
+Participates in aerospace systems, avionics, engines and defence technologies.
+
+**SpaceX**
+
+Primarily associated with launch services and space transportation, with additional satellite communication activities.
+
+### Why is this important?
+
+A company should not be classified only by its name or its most famous product.
+
+It is better to analyse:
+
+- Its business segments.
+- Its products.
+- Its customers.
+- Its contracts.
+- Its technologies.
+- Its role in each market.
+
+A single company may occupy different positions in different sectors.
+
+## 7.6 Strategic opportunities across the three sectors
+
+The differences between the sectors create specialised business opportunities.
+
+### Civil aviation opportunities
+
+- Predictive maintenance.
+- Aircraft health monitoring.
+- Fuel optimisation.
+- Flight planning.
+- Engineering simulation.
+- Advanced materials.
+- MRO automation.
+- Aircraft inspection.
+- Air traffic management technology.
+
+### Defence aerospace opportunities
+
+- Autonomous systems.
+- Secure communication.
+- Sensor data processing.
+- Simulation and training.
+- Predictive maintenance.
+- Mission planning software.
+- Electronic systems.
+- Specialised manufacturing.
+- Logistics optimisation.
+
+### Space industry opportunities
+
+- Satellite data analytics.
+- Ground station services.
+- Space situational awareness.
+- Satellite communication.
+- Propulsion systems.
+- Spacecraft components.
+- Mission planning software.
+- Space debris monitoring.
+- Earth observation applications.
+
+These opportunities differ in their technical requirements, customers, procurement cycles, regulatory constraints and barriers to entry.
+
+## 7.7 Case Study — One Technology, Three Markets
+
+### Scenario
+
+Imagine a startup developing an autonomous navigation and control platform.
+
+The startup wants to enter the aerospace industry.
+
+It is considering three markets:
+
+1. Civil aviation.
+2. Defence aerospace.
+3. Space.
+
+Analyse how the product would need to change for each market.
+
+### Market A — Civil aviation
+
+Potential application:
+
+Autonomous flight assistance or navigation technology for civil aircraft.
+
+Questions:
+
+- What safety requirements apply?
+- What happens if the software fails?
+- How would the technology integrate with existing aircraft systems?
+- What certification or approval pathway might be required?
+- Who would purchase it?
+- How long might the customer qualification process take?
+
+### Market B — Defence aerospace
+
+Potential application:
+
+Navigation and control technology for military UAVs.
+
+Questions:
+
+- What military mission does the system support?
+- What operating environments must it withstand?
+- What security requirements apply?
+- What qualification tests are necessary?
+- Who is the customer?
+- Would the product be sold directly or through a prime contractor?
+
+### Market C — Space
+
+Potential application:
+
+Attitude determination, navigation and control software for satellites.
+
+Questions:
+
+- What spacecraft functions does the software control?
+- What radiation and reliability requirements apply to its hardware environment?
+- How will it operate with limited ground intervention?
+- What testing and qualification are necessary?
+- Who purchases the system?
+- What happens if the spacecraft loses communication?
+
+### Final analysis
+
+Prepare a comparison table covering:
+
+- Customer.
+- Product requirements.
+- Operating environment.
+- Safety or mission risks.
+- Regulatory framework.
+- Testing and qualification.
+- Procurement process.
+- Revenue model.
+- Lifecycle support.
+- Barriers to entry.
+
+Your conclusion should explain whether the startup should target one market first or attempt to serve all three.
+
+## 7.8 Final Week 2 exercise — Industry classification
+
+Classify the following organisations or products by sector and explain their role.
+
+| Organisation or product | Sector to investigate |
+|---|---|
+| Airbus A320 | Civil aviation |
+| Lockheed Martin F-35 | Defence aerospace |
+| ISRO PSLV | Space |
+| Rolls-Royce Trent engine | Civil aviation / aerospace propulsion |
+| Military surveillance UAV | Defence aerospace |
+| Starlink satellite network | Commercial space |
+| Airport air traffic control | Civil aviation |
+| Military radar system | Defence aerospace |
+| Earth observation satellite | Space |
+| Aircraft MRO facility | Civil aviation or military aerospace, depending on customer |
+
+For each, identify:
+
+1. The organisation responsible.
+2. The customer.
+3. The end user.
+4. The product or service.
+5. The regulatory or approval environment.
+6. The relevant supply chain.
+7. The business or operational objective.
+
+---
+
+# Master Comparison Tables
+
+## 1. Fundamental differences
+
+| Dimension | Civil aviation | Defence aerospace | Space |
+|---|---|---|---|
+| Primary objective | Safe transportation | Military mission capability | Space access and services |
+| Main customer | Commercial operators | Governments and militaries | Governments and commercial customers |
+| End user | Passengers, cargo operators and pilots | Military personnel | Satellite service users and mission operators |
+| Operating environment | Atmosphere | Atmosphere and sometimes space | Space and launch environment |
+| Main engineering priority | Safety, efficiency and reliability | Mission performance, survivability and readiness | Mission success and spacecraft reliability |
+| Major risks | Safety and operational disruption | Mission failure and security risks | Launch failure, spacecraft failure and orbital hazards |
+| Acquisition | Purchase or leasing | Government procurement | Commercial or institutional contracts |
+| Technical approval | Certification and airworthiness | Qualification and military acceptance | Spacecraft qualification and mission assurance |
+| Lifecycle support | Maintenance and MRO | Maintenance and military logistics | Ground operations, monitoring and end-of-life disposal |
+| Revenue | Ticket sales, cargo, aircraft and services | Government contracts and support | Launch, satellite and data services |
+
+## 2. Engineering priority comparison
+
+| Engineering discipline | Civil aviation | Defence aerospace | Space |
+|---|---|---|---|
+| Aerodynamics | Efficiency and stability | Mission performance | Launch aerodynamics and atmospheric flight |
+| Propulsion | Fuel efficiency and reliability | Thrust and mission requirements | Thrust, specific impulse and propellant efficiency |
+| Structures | Fatigue and damage tolerance | Robustness and survivability | Lightweight structures and launch loads |
+| Materials | Strength, weight and durability | Performance and environmental robustness | Radiation, vacuum and thermal compatibility |
+| Avionics | Safe navigation and flight management | Mission systems and secure operation | Spacecraft control and communication |
+| Software | Safety and reliability | Security and mission effectiveness | Autonomous operation and fault tolerance |
+| Testing | Certification and operational safety | Qualification and operational evaluation | Environmental testing and mission assurance |
+
+## 3. Important terminology comparison
+
+| Concept | Civil aviation | Defence aerospace | Space |
+|---|---|---|---|
+| Safety | Aviation safety | Mission and personnel safety | Mission and launch safety |
+| Approval | Certification | Qualification and acceptance | Authorisation and mission-specific approvals |
+| Operation | Flight operations | Military operations | Spacecraft operations |
+| Maintenance | Scheduled maintenance and repairs | Military maintenance and logistics | Ground monitoring and limited servicing |
+| Main operating concern | Airworthiness | Mission readiness | Mission reliability |
+| International framework | ICAO and aviation conventions | Defence agreements and export controls | UN space treaties and ITU framework |
+
+---
+
+# Master Glossary
+
+| Term | Meaning |
+|---|---|
+| Civil Aviation | Non-military aviation activities |
+| Defence Aerospace | Aerospace systems developed for military and national security applications |
+| Space Industry | Industry involving launch, spacecraft, satellites and space-based services |
+| Airworthiness | Condition of an aircraft being safe and suitable for operation under applicable requirements |
+| Initial Airworthiness | Compliance of the original aircraft design and production with applicable requirements |
+| Continuing Airworthiness | Maintaining an aircraft's compliance and safe operating condition throughout its life |
+| Certification | Formal approval or recognition under a defined regulatory framework |
+| Type Certificate | Approval of an aircraft type design |
+| Safety Management System | Framework for managing safety risks |
+| Mission Capability | Ability of a system to perform its intended mission |
+| Survivability | Ability to withstand or manage threats and adverse conditions |
+| Qualification | Demonstration that a product or system meets specified technical requirements |
+| Classification | Protection of sensitive information according to security requirements |
+| Export Control | Restrictions on the transfer of specified goods, technology or information |
+| Procurement | Process of acquiring goods, services or systems |
+| Lifecycle Support | Support throughout a product's operational life |
+| Operational Availability | Extent to which a system is available for operational use |
+| Launch Vehicle | Rocket-powered vehicle used to transport payloads into space |
+| Spacecraft | Vehicle or system designed to operate in space |
+| Satellite | Object placed in orbit around a celestial body |
+| Payload | Equipment or cargo carried by a vehicle for its intended mission |
+| Orbital Insertion | Process of placing a spacecraft into its intended orbit |
+| Space Segment | Space-based portion of a space system |
+| Ground Segment | Earth-based infrastructure supporting space operations |
+| User Segment | Users and equipment that consume space-based services |
+| Telemetry | Information transmitted from a spacecraft to ground systems |
+| Tracking | Determining the position and movement of a spacecraft |
+| Command | Instructions transmitted to a spacecraft |
+| Specific Impulse | Measure of rocket propulsion efficiency |
+| Delta-v | Change in velocity |
+| Launching State | State meeting the applicable treaty definition in relation to a space object |
+| Space Debris | Non-functional human-made objects and fragments in orbit |
+| ITU | International Telecommunication Union |
+| ICAO | International Civil Aviation Organization |
+| IN-SPACe | Indian National Space Promotion and Authorisation Centre |
+| NSIL | NewSpace India Limited |
+| CEMILAC | Centre for Military Airworthiness and Certification |
+| DGAQA | Directorate General of Aeronautical Quality Assurance |
+
+---
+
+# End-of-Week Assessment
+
+## Part A — Conceptual understanding
+
+Answer in your own words.
+
+1. Explain the fundamental differences between civil aviation, defence aerospace and the space industry.
+2. Why is safety the central priority in civil aviation?
+3. Differentiate between safety and reliability.
+4. Explain initial and continuing airworthiness.
+5. What is aircraft certification?
+6. What is mission capability?
+7. Why are military aerospace systems designed around operational requirements?
+8. Differentiate between qualification and certification.
+9. Why are security and classification important in defence aerospace?
+10. Explain the importance of lifecycle support in military aviation.
+11. Differentiate between a launch vehicle and a spacecraft.
+12. Explain the launch, space, ground and user segments.
+13. What are the major environmental challenges faced by spacecraft?
+14. Explain the role of ICAO and national aviation authorities.
+15. What are the major international space treaties?
+16. Why is satellite frequency coordination necessary?
+17. How do the three sectors generate revenue?
+18. Explain why lifecycle economics influences aerospace engineering decisions.
+
+## Part B — Applied analysis
+
+Choose one product from each sector:
+
+- Civil: Commercial passenger aircraft.
+- Defence: Military aircraft or UAV.
+- Space: Satellite or launch vehicle.
+
+For each, prepare a report covering:
+
+1. Manufacturer.
+2. Customer.
+3. End user.
+4. Main purpose.
+5. Operating environment.
+6. Major engineering requirements.
+7. Testing requirements.
+8. Approval or regulatory framework.
+9. Acquisition method.
+10. Revenue model or funding structure.
+11. Lifecycle support.
+12. Major operational risks.
+
+## Part C — Comparative engineering
+
+Select one engineering discipline:
+
+- Propulsion.
+- Aerodynamics.
+- Structures.
+- Materials.
+- Avionics.
+- Software.
+- Guidance, Navigation and Control.
+
+Explain how the requirements of that discipline differ across civil aviation, defence aerospace and space.
+
+Your answer should focus on the engineering problem, not just the product names.
+
+## Part D — Strategic thinking
+
+Answer the following:
+
+1. Which aerospace sector has the most demanding certification requirements? Explain why a simple ranking may be misleading.
+2. Why can a technically excellent defence system still fail commercially?
+3. Why is spacecraft reliability particularly important?
+4. What makes space debris a strategic industry-wide concern?
+5. Can a company successfully operate in all three aerospace sectors?
+6. Which technologies have the strongest dual-use potential?
+7. Why might a startup choose satellite data analytics rather than satellite manufacturing?
+8. How do procurement cycles affect aerospace startup business models?
+9. What are the major differences between selling to an airline, a military organisation and a satellite operator?
+10. How should an aerospace company choose which sector to enter?
+
+---
+
+## Week 2 Completion Criteria
+
+By the end of this week, you should be able to:
+
+- [ ] Explain the fundamental differences between civil aviation, defence aerospace and the space industry.
+- [ ] Explain why civil aviation prioritises safety and airworthiness.
+- [ ] Distinguish between initial and continuing airworthiness.
+- [ ] Explain the aircraft certification process at a conceptual level.
+- [ ] Understand how airlines acquire and operate aircraft.
+- [ ] Explain mission capability and military operational requirements.
+- [ ] Distinguish between classification and export control.
+- [ ] Understand qualification and military acceptance.
+- [ ] Explain military procurement and lifecycle support.
+- [ ] Distinguish between launch vehicles, spacecraft and satellites.
+- [ ] Explain the launch, space, ground and user segments.
+- [ ] Understand the challenges of the orbital environment.
+- [ ] Explain satellite services and space industry business models.
+- [ ] Identify the major regulatory frameworks governing all three sectors.
+- [ ] Understand the international obligations associated with space activities.
+- [ ] Compare the economics and lifecycles of the three sectors.
+- [ ] Analyse a company or product within its correct aerospace sector.
+- [ ] Explain how the same technology can serve different aerospace markets.
+
+---
+
+## Final Learning Objective
+
+Do not conclude that civil aviation is simply about safety, defence is simply about weapons and space is simply about rockets.
+
+Each sector is a complex industrial ecosystem with its own engineering objectives, customers, commercial structures, regulatory requirements and strategic dependencies.
+
+The real objective is to understand **how the intended mission determines the engineering, business and regulatory architecture of an aerospace product.**
+
+By the end of Week 2, you should be able to look at any aerospace company or product and determine:
+
+1. Which sector does it belong to?
+2. What problem does it solve?
+3. Who pays for it?
+4. Who operates or uses it?
+5. What technical requirements must it satisfy?
+6. Which regulatory or approval framework applies?
+7. How does it generate economic or strategic value?
+8. What happens after the product is delivered?
+
+---
