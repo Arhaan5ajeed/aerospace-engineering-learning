@@ -194,8 +194,6 @@ This is a learning diagram showing the broad institutional arrangement. It is no
 4. Why does a defence manufacturer need to interact with multiple government institutions?
 5. Can one technology be used in both defence and civilian applications?
 
-**Day 1 deliverable:** A one-page diagram showing India's three major aerospace institutional ecosystems.
-
 ---
 
 # Day 2 — Ministry of Defence and the Indian Armed Forces
@@ -336,5 +334,136 @@ They influence:
 - Lifecycle support.
 
 For an aerospace company, understanding the customer is as important as understanding the technology.
+
+---
+
+# Day 3 — DRDO and India's Defence Research and Development Ecosystem
+
+## 1 What is DRDO?
+
+The Defence Research and Development Organisation (DRDO) is India's principal defence research and development organisation.
+
+It operates under the Department of Defence Research and Development within the Ministry of Defence.
+
+Its broad responsibilities include developing technologies, systems and equipment for India's defence requirements.
+
+Its work covers areas such as:
+
+- Aeronautics.
+- Missiles.
+- Armaments.
+- Electronics.
+- Radar.
+- Naval systems.
+- Combat vehicles.
+- Materials.
+- Advanced computing.
+- Sensors and surveillance.
+- Autonomous systems.
+
+DRDO is not simply a manufacturing company.
+
+Its primary role is research, design, technology development, system development and related technical activities.
+
+## 2 Why does India need DRDO?
+
+Defence systems frequently require technologies that are difficult to obtain, customise or sustain through foreign procurement alone.
+
+Examples include:
+
+- Aircraft flight-control systems.
+- Missile guidance systems.
+- Radar technologies.
+- Electronic warfare systems.
+- Advanced composite materials.
+- Propulsion technologies.
+- Autonomous platforms.
+
+Developing indigenous technology can provide:
+
+1. Greater technological control.
+2. Reduced dependence on foreign suppliers.
+3. Greater freedom to modify systems.
+4. Improved domestic industrial capabilities.
+5. Opportunities for exports.
+6. Long-term research and development expertise.
+
+However, indigenous development is not automatically cheaper, faster or more successful. It requires investment, testing, industrial capacity and sustained technical capability.
+
+## 3 DRDO and manufacturing companies
+
+A common misconception is that DRDO independently manufactures every defence system it develops.
+
+In reality, research organisations and manufacturing organisations can have different responsibilities.
+
+A simplified relationship:
+
+```text
+MILITARY REQUIREMENT
+        │
+        ▼
+  DRDO / DESIGN AGENCY
+        │
+        ▼
+RESEARCH AND DEVELOPMENT
+        │
+        ▼
+PROTOTYPE DEVELOPMENT
+        │
+        ▼
+TESTING AND EVALUATION
+        │
+        ▼
+PRODUCTION AGENCY
+        │
+        ▼
+MANUFACTURING AND DELIVERY
+        │
+        ▼
+     MILITARY USER
+```
+
+The production agency could be a DPSU, private company or another authorised industrial organisation, depending on the programme.
+
+The design agency and production agency may also collaborate throughout development.
+
+## 4 Example: Light Combat Aircraft Tejas
+
+The Light Combat Aircraft (LCA) Tejas programme is an important example of India's aerospace development ecosystem.
+
+It demonstrates the interaction of:
+
+- Aeronautical research.
+- Aircraft design.
+- Flight control technology.
+- Avionics.
+- Materials and structures.
+- Engine integration.
+- Testing and evaluation.
+- Industrial manufacturing.
+- Military requirements.
+
+Organisations associated with the programme have included:
+
+- Aeronautical Development Agency (ADA).
+- DRDO laboratories.
+- Hindustan Aeronautics Limited (HAL).
+- Indian Air Force.
+- Other public and private industrial suppliers.
+- Relevant testing, certification and quality assurance organisations.
+
+The programme illustrates why an advanced aircraft cannot be understood as the product of one organisation alone.
+
+It is the result of a large network of specialised institutions and industrial participants.
+
+## 5 Understand the difference
+
+| Organisation | Broad responsibility |
+|---|---|
+| DRDO | Defence research and technology development |
+| ADA | Aircraft design and development agency, notably associated with the LCA programme |
+| HAL | Aircraft manufacturing, integration, overhaul and support |
+| Armed forces | Operational requirements, evaluation and use |
+| Quality assurance organisations | Government quality assurance within their respective areas |
 
 ---
