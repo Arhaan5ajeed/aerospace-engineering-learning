@@ -467,3 +467,157 @@ It is the result of a large network of specialised institutions and industrial p
 | Quality assurance organisations | Government quality assurance within their respective areas |
 
 ---
+
+#  Day 4 — DPSUs and India's Defence Manufacturing Base
+
+## 1 What are DPSUs?
+
+DPSU stands for Defence Public Sector Undertaking.
+
+These are government-owned companies operating in the defence production ecosystem.
+
+They manufacture or provide equipment, systems and services for India's defence requirements.
+
+They play an important role in:
+
+- Aircraft manufacturing.
+- Helicopter production.
+- Defence electronics.
+- Missile systems.
+- Special alloys.
+- Naval systems.
+- Armoured vehicles.
+- Weapons and ammunition.
+- Maintenance, repair and overhaul.
+
+DPSUs are not all the same. Each has its own technological specialisation, production facilities, customers and industrial capabilities.
+
+## 2 Important DPSUs to understand
+
+### A. Hindustan Aeronautics Limited (HAL)
+
+**Primary focus: Aerospace platforms and systems.**
+
+HAL is one of India's most important aerospace manufacturers.
+
+Its activities include:
+
+- Aircraft design and development.
+- Aircraft manufacturing.
+- Helicopter manufacturing.
+- Aero-engine manufacturing and overhaul.
+- Avionics and airborne systems.
+- Aircraft repair and maintenance.
+- Aerospace structures.
+
+Examples of programmes and products associated with HAL include:
+
+- Tejas.
+- Dhruv.
+- Rudra.
+- Prachand.
+- HTT-40.
+- Aircraft and helicopter MRO services.
+
+HAL is particularly important because it operates across several stages of the aerospace product lifecycle.
+
+It is not merely an assembly facility.
+
+### B. Bharat Electronics Limited (BEL)
+
+**Primary focus: Defence electronics and systems.**
+
+BEL develops and manufactures:
+
+- Radar systems.
+- Communication systems.
+- Electronic warfare equipment.
+- Avionics.
+- Naval electronics.
+- Sonar systems.
+- Electro-optical systems.
+- Command and control systems.
+- Electronic components and integrated solutions.
+
+A modern aircraft requires much more than an airframe and an engine.
+
+It also requires complex electronics, communication, navigation, sensors and mission systems.
+
+This makes BEL an important participant in the defence electronics ecosystem.
+
+### C. Bharat Dynamics Limited (BDL)
+
+**Primary focus: Missiles and allied defence systems.**
+
+BDL is an important defence manufacturing organisation associated with missile systems and related equipment.
+
+Its broad areas include:
+
+- Missile manufacturing.
+- Guided weapon systems.
+- Associated defence equipment.
+- Production and support of strategic defence products.
+
+Its role demonstrates the importance of specialised manufacturing in the defence industry.
+
+### D. Mishra Dhatu Nigam Limited (MIDHANI)
+
+**Primary focus: Special materials and strategic alloys.**
+
+MIDHANI manufactures specialised materials required in strategic industries.
+
+Its products and capabilities include:
+
+- Special steels.
+- Superalloys.
+- Titanium alloys.
+- Special-purpose materials.
+- Other high-performance metallic materials.
+
+Why is this important for aerospace?
+
+An aircraft engine operates under extreme temperatures, stresses and mechanical loads.
+
+A conventional material may not provide the required combination of strength, temperature resistance, corrosion resistance and fatigue performance.
+
+Advanced aerospace systems therefore require specialised materials.
+
+MIDHANI represents an important part of the upstream material supply chain.
+
+## 3 Understanding the relationship between DPSUs
+
+Consider a hypothetical indigenous military aircraft.
+
+Different organisations may contribute:
+
+| Requirement | Potential industrial participant |
+|---|---|
+| Aircraft manufacturing and integration | HAL |
+| Defence electronics and systems | BEL |
+| Special aerospace alloys | MIDHANI |
+| Missile systems | BDL |
+| Additional structures and components | Private companies and MSMEs |
+| Research and technology development | DRDO and other design agencies |
+
+This is an illustrative capability map, not a claim that all these companies supply every aircraft programme.
+
+## 4 DPSUs are not the entire industry
+
+A common mistake is to assume that India's defence industry consists only of government-owned companies.
+
+Private companies, MSMEs and startups also participate in:
+
+- Design and engineering.
+- Manufacturing.
+- Precision machining.
+- Electronics.
+- Software.
+- Testing.
+- Simulation.
+- Maintenance.
+- System integration.
+- Research and development.
+
+The modern defence industrial ecosystem depends on collaboration between public and private organisations.
+
+---
