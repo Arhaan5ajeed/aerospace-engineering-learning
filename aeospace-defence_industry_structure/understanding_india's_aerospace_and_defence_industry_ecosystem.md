@@ -843,3 +843,143 @@ It is:
 **Day 5 deliverable:** Select one Indian defence startup or private company and analyse its product, customers, technology, supply-chain position and possible route to market.
 
 ---
+
+# Day 6 — Quality Assurance, Certification and Regulation
+
+This is one of the most important days of the week.
+
+Developing an aerospace product is not enough.
+
+The product must satisfy the relevant technical, safety, quality, reliability and regulatory requirements.
+
+Different organisations are responsible for different kinds of assurance.
+
+## 1 What is quality assurance?
+
+Quality assurance is the systematic process of ensuring that products and processes meet specified requirements.
+
+In aerospace and defence, quality assurance is particularly important because equipment failure can result in:
+
+- Loss of life.
+- Mission failure.
+- Aircraft accidents.
+- Equipment damage.
+- Financial losses.
+- Operational unavailability.
+
+A component must not simply look correct.
+
+It must be manufactured, inspected and verified against the required technical specifications.
+
+## 2 Directorate General of Aeronautical Quality Assurance (DGAQA)
+
+DGAQA operates under the Department of Defence Production, Ministry of Defence.
+
+It performs government quality assurance and final acceptance functions for military aeronautical equipment.
+
+Its responsibilities cover areas such as:
+
+- Military aircraft.
+- Unmanned aerial vehicles.
+- Aero-engines.
+- Airborne systems.
+- Avionics.
+- Air armaments.
+- Allied ground systems.
+- Missiles and associated equipment within its assigned scope.
+
+Its involvement can extend across:
+
+- Design and development.
+- Production.
+- Repair.
+- Modification.
+- Overhaul.
+- Upgrades and life extension.
+
+DGAQA also participates in standardisation, defect investigation and technical consultancy.
+
+### Why does DGAQA matter?
+
+Imagine HAL or a private company manufacturing a military aircraft component.
+
+The component must comply with the applicable design and quality requirements.
+
+DGAQA may be involved in the government quality assurance and acceptance process applicable to that product and programme.
+
+Its role is not to design the aircraft or operate it.
+
+Its role is to provide the assigned government quality assurance function.
+
+## 3 Directorate General of Quality Assurance (DGQA)
+
+DGQA is another organisation within the defence quality assurance ecosystem.
+
+It deals with government quality assurance for defence stores and equipment within its assigned scope, particularly areas outside the aeronautical domain.
+
+Its work can cover:
+
+- Armaments.
+- Ammunition.
+- Equipment.
+- General defence stores.
+- Associated manufacturing and quality processes.
+
+The exact division of responsibility depends on the type of equipment and the applicable organisational framework.
+
+### DGAQA vs DGQA
+
+| DGAQA | DGQA |
+|---|---|
+| Aeronautical quality assurance | General defence quality assurance within its assigned scope |
+| Military aircraft | Defence equipment and stores |
+| Aero-engines | Armaments and ammunition |
+| Avionics and airborne systems | Other assigned defence equipment |
+| UAVs and aeronautical systems | Non-aeronautical quality assurance areas |
+
+Do not confuse these two organisations merely because their names are similar.
+
+## 4 DGCA — Civil aviation regulation
+
+The Directorate General of Civil Aviation (DGCA) is an attached office of the Ministry of Civil Aviation.
+
+It is responsible for civil aviation regulation, including areas such as:
+
+- Aviation safety.
+- Airworthiness.
+- Civil aviation standards.
+- Regulation of air transport services.
+- Licensing and oversight within its assigned responsibilities.
+
+### Why is DGCA different from DGAQA?
+
+Both organisations are connected to aviation, but they operate in different institutional contexts.
+
+| DGCA | DGAQA |
+|---|---|
+| Civil aviation regulation | Military aeronautical government quality assurance |
+| Under Ministry of Civil Aviation | Under Department of Defence Production |
+| Civil aircraft and aviation ecosystem | Military aircraft and aeronautical stores |
+| Civil aviation safety and airworthiness framework | Quality assurance and acceptance within defence programmes |
+
+A civil aircraft and a military aircraft do not necessarily follow the same approval and assurance framework.
+
+Their intended users, operating environments and applicable requirements differ.
+
+## 5 Certification, quality assurance and testing are not identical
+
+These terms are often used interchangeably by beginners, but they describe different activities.
+
+| Term | Meaning |
+|---|---|
+| Testing | Checking whether a product performs as required |
+| Inspection | Examining a product or process against specified criteria |
+| Quality assurance | Providing confidence that applicable quality requirements are met |
+| Certification | Formal recognition or approval under a defined scheme |
+| Acceptance | Formal acceptance of a product or deliverable under applicable contractual or institutional requirements |
+
+An organisation may participate in several of these activities, but they are not automatically the same function.
+
+**Day 6 deliverable:** Draw a comparison between DGCA, DGAQA and DGQA. Include their administrative positions, areas of responsibility and the products or activities they oversee.
+
+---
