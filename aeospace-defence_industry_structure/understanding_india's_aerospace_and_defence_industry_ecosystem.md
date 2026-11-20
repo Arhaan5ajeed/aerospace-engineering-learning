@@ -840,8 +840,6 @@ It is:
 
 **Who needs it, who will evaluate it, who will integrate it, who will pay for it, and who will support it throughout its lifecycle?**
 
-**Day 5 deliverable:** Select one Indian defence startup or private company and analyse its product, customers, technology, supply-chain position and possible route to market.
-
 ---
 
 # Day 6 — Quality Assurance, Certification and Regulation
@@ -980,6 +978,179 @@ These terms are often used interchangeably by beginners, but they describe diffe
 
 An organisation may participate in several of these activities, but they are not automatically the same function.
 
-**Day 6 deliverable:** Draw a comparison between DGCA, DGAQA and DGQA. Include their administrative positions, areas of responsibility and the products or activities they oversee.
+---
+
+# Day 7 — India's Space Ecosystem and the Complete Relationship Map
+
+The space sector has a different institutional structure from the defence ecosystem.
+
+Although there are areas of technological overlap, the organisations, customers, regulations and commercial arrangements are different.
+
+## 1 Department of Space
+
+The Department of Space is responsible for India's space programme.
+
+It provides the government-level institutional framework for the development and implementation of national space activities.
+
+Important organisations associated with this ecosystem include:
+
+- ISRO.
+- IN-SPACe.
+- NSIL.
+
+## 2 Indian Space Research Organisation (ISRO)
+
+ISRO is India's principal space research and development organisation.
+
+Its activities include:
+
+- Satellite development.
+- Launch vehicle development.
+- Space exploration.
+- Earth observation.
+- Satellite communication.
+- Navigation systems.
+- Space science.
+- Human spaceflight development.
+- Space applications.
+
+ISRO has developed a broad technical ecosystem involving launch vehicles, spacecraft, propulsion, ground stations, mission control and satellite applications.
+
+For aerospace engineers, ISRO provides opportunities to understand:
+
+- Rocket propulsion.
+- Orbital mechanics.
+- Spacecraft structures.
+- Thermal protection.
+- Satellite subsystems.
+- Guidance, navigation and control.
+- Telemetry, tracking and command.
+- Mission design.
+
+## 3 IN-SPACe
+
+IN-SPACe stands for Indian National Space Promotion and Authorisation Centre.
+
+It functions under the Department of Space.
+
+Its role is to promote and authorise eligible non-governmental participation in India's space activities.
+
+Its responsibilities include enabling private entities to participate in activities such as:
+
+- Building launch vehicles.
+- Building satellites.
+- Providing space-based services.
+- Using specified ISRO facilities and infrastructure.
+- Establishing space-related infrastructure, subject to applicable permissions.
+- Undertaking other authorised space activities.
+
+It acts as an important interface between the government space ecosystem and non-governmental space industry participants.
+
+### Why is IN-SPACe important?
+
+Historically, India's space programme was strongly centred around government institutions.
+
+The development of a larger private space industry requires mechanisms for:
+
+- Authorisation.
+- Access to infrastructure.
+- Technology sharing.
+- Coordination.
+- Regulatory oversight.
+- Private-sector participation.
+
+IN-SPACe helps enable this participation.
+
+## 4 NewSpace India Limited (NSIL)
+
+NSIL is a wholly owned Government of India company under the administrative control of the Department of Space.
+
+It is the commercial arm of ISRO.
+
+Its responsibilities include:
+
+- Commercialisation of space products and services.
+- Marketing space-based services.
+- Production of launch vehicles through industry.
+- Satellite-related commercial activities.
+- Technology transfer.
+- Commercial exploitation of technologies developed through India's space programme.
+
+### ISRO vs IN-SPACe vs NSIL
+
+| Organisation | Main purpose |
+|---|---|
+| ISRO | Research, development and space missions |
+| IN-SPACe | Promotion and authorisation of eligible non-governmental space activities |
+| NSIL | Commercialisation and delivery of space-related products and services |
+
+These organisations have different roles. IN-SPACe is not a commercial manufacturer, and NSIL is not a replacement for ISRO's research and development functions.
+
+## 5 Private space companies
+
+India's private space sector is expanding into areas such as:
+
+- Launch vehicles.
+- Satellite manufacturing.
+- Satellite propulsion.
+- Space electronics.
+- Earth observation.
+- Space-based communication.
+- Ground stations.
+- Satellite data analytics.
+- Space situational awareness.
+- Space transportation and related technologies.
+
+Examples worth investigating:
+
+- Skyroot Aerospace.
+- Agnikul Cosmos.
+- Pixxel.
+- Dhruva Space.
+- Digantara.
+- Bellatrix Aerospace.
+
+Study each company's actual products and capabilities rather than assuming that every company is a launch vehicle manufacturer.
+
+## 6 The Indian space relationship map
+
+```text
+                GOVERNMENT OF INDIA
+                         │
+                         ▼
+                DEPARTMENT OF SPACE
+                         │
+        ┌────────────────┼────────────────┐
+        ▼                ▼                ▼
+      ISRO           IN-SPACe            NSIL
+        │                │                │
+        ▼                ▼                ▼
+  Research,         Promotion and    Commercialisation
+  development,      authorisation    and space services
+  technology        of eligible
+  and missions      non-governmental
+                    space activities
+                         │
+                         ▼
+               Private Space Companies
+                         │
+                         ▼
+             Launch Vehicles / Satellites /
+             Ground Systems / Space Services
+```
+
+This is a simplified functional diagram. IN-SPACe, ISRO and NSIL operate within the wider Department of Space framework, but their relationships should not be interpreted as a simple command chain.
+
+## 7 Compare defence and space
+
+| Parameter | Defence ecosystem | Space ecosystem |
+|---|---|---|
+| Government framework | Ministry of Defence | Department of Space |
+| Main users | Armed forces and defence organisations | Government, commercial and other authorised users |
+| Research | DRDO and other design agencies | ISRO and other research organisations |
+| Manufacturing | DPSUs, private companies and MSMEs | ISRO-associated industry and private space companies |
+| Innovation | iDEX and other innovation mechanisms | Private-sector participation enabled through IN-SPACe and other initiatives |
+| Quality and approvals | Applicable military quality assurance and acceptance frameworks | Applicable space authorisation, safety and technical requirements |
+| Commercialisation | Defence procurement, production and exports | NSIL and private space business models |
 
 ---
