@@ -1154,3 +1154,268 @@ This is a simplified functional diagram. IN-SPACe, ISRO and NSIL operate within 
 | Commercialisation | Defence procurement, production and exports | NSIL and private space business models |
 
 ---
+
+# 9. Understanding the Major Organisations
+
+This section consolidates the organisations you must be able to identify by their function.
+
+Do not memorise their names in isolation. Learn the question each organisation answers.
+
+| Organisation | What question does it primarily answer? |
+|---|---|
+| Ministry of Defence | Who provides the central government framework for defence? |
+| Department of Defence Production | Who develops the defence production and industrial ecosystem? |
+| Indian Army | Who operates land-based military systems? |
+| Indian Navy | Who operates maritime and naval systems? |
+| Indian Air Force | Who operates military airpower systems? |
+| DRDO | Who develops defence technologies and systems? |
+| HAL | Who manufactures and supports many Indian aerospace platforms? |
+| BEL | Who develops and manufactures defence electronics and systems? |
+| BDL | Who manufactures missile and allied defence systems? |
+| MIDHANI | Who supplies specialised strategic materials? |
+| Private defence companies | Who contributes additional industrial and technological capabilities? |
+| MSMEs | Who supplies specialised components and services? |
+| Startups | Who develops emerging and specialised technologies? |
+| DGAQA | Who performs government quality assurance for military aeronautical equipment? |
+| DGQA | Who performs government quality assurance for defence stores within its assigned scope? |
+| DPSUs | Which government-owned companies contribute to defence production? |
+| iDEX | How are innovators connected with defence technology challenges? |
+| Defence Innovation Organisation | Which organisation implements and supports the iDEX innovation framework? |
+| DGCA | Who regulates civil aviation within its assigned responsibilities? |
+| ISRO | Who conducts India's space research, technology development and missions? |
+| IN-SPACe | Who promotes and authorises eligible non-governmental space activities? |
+| NSIL | Who commercialises India's space products and services? |
+
+---
+
+# I. The Indian Aerospace and Defence Supply Chain
+
+Now connect everything you have studied.
+
+## I.1 A simplified defence industry structure
+
+```text
+                    GOVERNMENT OF INDIA
+                            │
+                            ▼
+                    MINISTRY OF DEFENCE
+                            │
+          ┌─────────────────┼──────────────────┐
+          │                 │                  │
+          ▼                 ▼                  ▼
+    MILITARY AFFAIRS   DEFENCE PRODUCTION   DEFENCE R&D
+          │                 │                  │
+          ▼                 ▼                  ▼
+    ARMY / NAVY /       DPSUs AND           DRDO AND
+       AIR FORCE        PRIVATE INDUSTRY    DESIGN AGENCIES
+          │                 │                  │
+          └─────────────────┼──────────────────┘
+                            │
+                            ▼
+                  DEVELOPMENT / PROCUREMENT
+                            │
+                            ▼
+                 MANUFACTURING AND INTEGRATION
+                            │
+                            ▼
+                  TESTING AND QUALITY ASSURANCE
+                            │
+                            ▼
+                      DELIVERY / INDUCTION
+                            │
+                            ▼
+                  OPERATION AND MAINTENANCE
+```
+
+This diagram is a conceptual overview. It deliberately simplifies the actual institutional, contractual and technical relationships.
+
+## I.2 Where do MSMEs fit?
+
+MSMEs can participate at several points.
+
+For example:
+
+- Raw material processing.
+- Precision machining.
+- Structural components.
+- Electronic assemblies.
+- Cable harnesses.
+- Software development.
+- Inspection.
+- Testing.
+- Maintenance.
+
+They may supply a DPSU, private prime contractor, DRDO programme or another industrial organisation.
+
+They do not necessarily receive orders directly from the Ministry of Defence.
+
+## I.3 Where do startups fit?
+
+Startups may enter through:
+
+- iDEX challenges.
+- Direct commercial partnerships.
+- Subcontracting.
+- Technology licensing.
+- Research collaborations.
+- Private-sector investment.
+- Development contracts.
+- Other procurement and innovation routes.
+
+Their technology can eventually become part of a larger aerospace or defence platform.
+
+## I.4 Where do DGAQA and DGQA fit?
+
+Quality assurance is not necessarily a final step after manufacturing.
+
+It may be involved during development, production, testing, repair and overhaul.
+
+Therefore, draw DGAQA and DGQA alongside the relevant production and development activities, rather than only at the very end of the supply chain.
+
+## I.5 Where does DGCA fit?
+
+DGCA belongs to the civil aviation regulatory ecosystem.
+
+Do not place it under the Ministry of Defence.
+
+It may interact with aircraft manufacturers, operators, maintenance organisations and other civil aviation participants under its regulatory responsibilities.
+
+## I.6 Where does ISRO fit?
+
+ISRO belongs to the Department of Space ecosystem.
+
+It interacts with research institutions, suppliers, manufacturers, launch service providers, satellite operators and other space-sector participants.
+
+IN-SPACe and NSIL have different functions in enabling and commercialising the wider space industry.
+
+---
+
+# II. Important Distinctions
+
+These distinctions are more important than memorising organisational abbreviations.
+
+| Do not confuse | Actual distinction |
+|---|---|
+| MoD and DDP | MoD is the ministry; DDP is a department within its institutional structure |
+| DMA and DDP | DMA focuses on military affairs and jointness; DDP focuses on defence production |
+| DRDO and HAL | DRDO is a research and development organisation; HAL is an aerospace manufacturer and service provider |
+| HAL and BEL | HAL specialises in aerospace platforms and systems; BEL specialises in defence electronics and systems |
+| DPSU and DRDO | DPSUs are public-sector companies; DRDO is a government R&D organisation |
+| DGAQA and DGQA | They have different quality assurance responsibilities |
+| DGCA and DGAQA | DGCA regulates civil aviation; DGAQA performs government quality assurance in military aeronautics |
+| iDEX and DIO | iDEX is the innovation initiative/framework; DIO is the organisation implementing and supporting it |
+| ISRO and IN-SPACe | ISRO develops and operates space capabilities; IN-SPACe enables and authorises eligible non-governmental participation |
+| ISRO and NSIL | ISRO focuses on research, technology and missions; NSIL focuses on commercialisation |
+| MoD and DoS | They belong to separate government institutional frameworks |
+| Prime contractor and supplier | The prime contractor is responsible for delivering the contracted system; suppliers provide components, subsystems or services under their respective contracts |
+
+---
+
+# III. Industry Case Study
+
+## Case Study — How Could India Develop an Indigenous Unmanned Aerial Vehicle?
+
+Imagine India identifies a requirement for a new long-endurance unmanned aerial vehicle for surveillance and reconnaissance.
+
+Your task is to understand how the Indian ecosystem could contribute.
+
+### Step 1 — Requirement identification
+
+A military user identifies a need for an unmanned aircraft with:
+
+- Long endurance.
+- High operational reliability.
+- Secure communication.
+- Autonomous navigation.
+- Surveillance capabilities.
+- Operation in challenging environmental conditions.
+
+The requirement is translated into technical and operational specifications.
+
+### Step 2 — Research and development
+
+A suitable design agency or development organisation undertakes the technical work.
+
+Potential areas include:
+
+- Aerodynamics.
+- Flight dynamics.
+- Propulsion.
+- Structures.
+- Flight-control systems.
+- Navigation.
+- Communication.
+- Sensors.
+- Autonomous software.
+
+DRDO or another suitable design and development organisation may participate, depending on the programme.
+
+### Step 3 — Manufacturing
+
+Industrial organisations manufacture different parts.
+
+For example:
+
+| System | Potential industrial participant |
+|---|---|
+| Airframe | Aerospace manufacturer |
+| Composite structures | Specialist manufacturer or MSME |
+| Avionics | Defence electronics company |
+| Communication systems | Electronics and communication supplier |
+| Engine or propulsion | Relevant propulsion manufacturer |
+| Flight-control software | Specialised software company |
+| Materials | Specialised material suppliers |
+
+### Step 4 — Testing and quality assurance
+
+The system undergoes appropriate tests and evaluation.
+
+These may include:
+
+- Structural testing.
+- Environmental testing.
+- Propulsion testing.
+- Ground testing.
+- Flight testing.
+- Avionics testing.
+- Communication testing.
+- Reliability assessment.
+
+DGAQA may perform government quality assurance functions relevant to military aeronautical equipment.
+
+### Step 5 — Procurement and induction
+
+The applicable procurement and acceptance processes are completed.
+
+The system is delivered to the military user under the relevant contractual and technical arrangements.
+
+### Step 6 — Lifecycle support
+
+After induction, the manufacturer and other support organisations may provide:
+
+- Maintenance.
+- Spare parts.
+- Software updates.
+- Repairs.
+- Training.
+- System upgrades.
+- Technical support.
+
+### Your analysis
+
+Answer the following:
+
+1. Who is the customer?
+2. Who defines the operational requirement?
+3. Who could develop the aircraft?
+4. Who could manufacture the airframe?
+5. Who could develop the avionics?
+6. Where could MSMEs participate?
+7. What role could DRDO perform?
+8. What role could DGAQA perform?
+9. Who would operate the UAV?
+10. Who would support it after induction?
+
+The objective is to understand that the final aircraft is the output of an entire industrial ecosystem.
+
+---
