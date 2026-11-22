@@ -1419,3 +1419,124 @@ Answer the following:
 The objective is to understand that the final aircraft is the output of an entire industrial ecosystem.
 
 ---
+
+# IV. End-of-Week Assessment
+
+Complete these questions without referring to the notes.
+
+## Part A — Institutional understanding
+
+1. Explain the difference between the Ministry of Defence and Department of Defence Production.
+2. What is the role of the Department of Military Affairs?
+3. What is the relationship between DRDO and DDR&D?
+4. Why are the Indian Army, Navy and Air Force important customers for aerospace companies?
+5. Why is DGCA under the Ministry of Civil Aviation rather than the Ministry of Defence?
+
+## Part B — Industrial understanding
+
+1. What is the difference between HAL and BEL?
+2. Why is MIDHANI important to the aerospace industry?
+3. What is the primary role of BDL?
+4. Why are MSMEs important in aerospace manufacturing?
+5. Why do prime contractors depend on specialised suppliers?
+
+## Part C — Innovation and quality
+
+1. What is iDEX?
+2. What is the role of the Defence Innovation Organisation?
+3. Does receiving iDEX support guarantee a production contract?
+4. What is the difference between DGAQA and DGQA?
+5. Why is quality assurance important in military aviation?
+
+## Part D — Space ecosystem
+
+1. What is the difference between ISRO, IN-SPACe and NSIL?
+2. Why is IN-SPACe important for private space companies?
+3. What is the commercial role of NSIL?
+4. Why does the space industry need private-sector suppliers?
+5. How does India's space ecosystem differ institutionally from its defence ecosystem?
+
+## Part E — Application
+
+1. Draw the relationship between a military user, DRDO, HAL, BEL, private suppliers and quality assurance organisations.
+2. Explain how an aerospace startup could become a supplier to a defence prime contractor.
+3. Describe how an indigenous UAV could move from requirement identification to military induction.
+4. Identify the government institution relevant to each of the following:
+    - Military aircraft manufacturing.
+    - Civil aircraft airworthiness.
+    - Defence electronics.
+    - Space research.
+    - Private space activity authorisation.
+    - Defence innovation support.
+
+---
+
+# V. Completion Checklist
+
+By the end of Week 3, you should be able to:
+
+- [ ] Explain India's three broad aerospace institutional ecosystems.
+- [ ] Distinguish the Ministry of Defence, Ministry of Civil Aviation and Department of Space.
+- [ ] Explain the broad responsibilities of DDP, DMA and DDR&D.
+- [ ] Identify the roles of the Indian Army, Navy and Air Force.
+- [ ] Explain DRDO's role in defence research and development.
+- [ ] Distinguish DRDO from manufacturing organisations.
+- [ ] Explain the specialisations of HAL, BEL, BDL and MIDHANI.
+- [ ] Understand why private companies and MSMEs are essential.
+- [ ] Explain the relationship between iDEX and DIO.
+- [ ] Distinguish DGQA, DGAQA and DGCA.
+- [ ] Explain the relationship between ISRO, IN-SPACe and NSIL.
+- [ ] Understand how startups can enter the defence and space industries.
+- [ ] Draw India's aerospace and defence ecosystem without copying the notes.
+- [ ] Explain how a defence requirement can become a manufactured and supported product.
+
+---
+
+# V. Reference Sources
+
+Use official institutional sources as your primary references. Organisational responsibilities, policies and programme details can change, so verify current information when studying a specific organisation.
+
+## Government and defence
+
+- [Ministry of Defence](https://www.mod.gov.in/)
+- [Department of Defence Production](https://www.ddpmod.gov.in/)
+- [Department of Defence Production — Organisations](https://www.ddpmod.gov.in/en/department/our-organisations)
+- [Defence Research and Development Organisation](https://www.drdo.gov.in/)
+- [iDEX — Innovations for Defence Excellence](https://idex.gov.in/)
+
+## Defence quality assurance
+
+- [Directorate General of Aeronautical Quality Assurance](https://dgaeroqa.gov.in/)
+
+## Defence public-sector companies
+
+- [Hindustan Aeronautics Limited](https://hal-india.co.in/)
+- [Bharat Electronics Limited](https://bel-india.in/)
+- [Bharat Dynamics Limited](https://bdl-india.in/)
+- [Mishra Dhatu Nigam Limited](https://midhani-india.in/)
+
+## Civil aviation
+
+- [Directorate General of Civil Aviation](https://www.dgca.gov.in/)
+
+## Space
+
+- [Indian Space Research Organisation](https://www.isro.gov.in/)
+- [IN-SPACe](https://www.inspace.gov.in/)
+- [NewSpace India Limited](https://www.nsilindia.co.in/)
+
+---
+
+# Final Learning Objective
+
+At the end of this week, you should no longer see India's aerospace and defence industry as a collection of government organisations and companies.
+
+You should see it as an interconnected system.
+
+A military requirement can create a research and development programme. That programme can involve DRDO, design agencies, DPSUs, private companies and MSMEs. The resulting equipment must satisfy applicable testing and quality requirements before it can be accepted and operated. Its development does not end at delivery; maintenance, upgrades and lifecycle support continue for years.
+
+Similarly, India's space ecosystem connects government institutions, ISRO, IN-SPACe, NSIL, private space companies and specialised suppliers.
+
+**Your goal is not to memorise who exists. Your goal is to understand why each organisation exists, what it contributes, whom it serves, and how it connects to the rest of the industry.**
+
+If you can draw the complete relationship map from memory and explain the flow of requirements, technology, manufacturing, quality assurance and delivery, you have achieved the purpose of Week 3.
