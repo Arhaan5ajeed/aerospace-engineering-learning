@@ -92,3 +92,86 @@ When studying a country or region, ask:
 These four questions will help you understand almost any aerospace industry.
 
 ---
+
+# 2. Day 1 — Understanding Global Aerospace Industry Structures
+
+## 2.1 The common aerospace ecosystem
+
+Regardless of the country, most aerospace industries contain similar functional participants.
+
+```text
+               GOVERNMENT / MARKET
+                      |
+                      v
+                CUSTOMER DEMAND
+                      |
+         +------------+------------+
+         |            |            |
+         v            v            v
+      CIVIL         DEFENCE       SPACE
+      USERS         USERS         USERS
+         |            |            |
+         +------------+------------+
+                      |
+                      v
+             REQUIREMENTS AND FUNDING
+                      |
+                      v
+             RESEARCH AND DEVELOPMENT
+                      |
+                      v
+            DESIGN AND ENGINEERING
+                      |
+                      v
+                MANUFACTURING
+                      |
+                      v
+             TESTING AND APPROVAL
+                      |
+                      v
+                 DELIVERY
+                      |
+                      v
+            OPERATION AND SUPPORT
+```
+
+This is a conceptual model. Actual programmes can have several organisations working in parallel, with development, testing, procurement and manufacturing overlapping.
+
+## 2.2 What changes between countries?
+
+The functions may be similar, but the institutions performing them can differ.
+
+For example:
+
+| Function | India | United States | Europe |
+|---|---|---|---|
+| Civil aviation regulation | DGCA | FAA | EASA and national aviation authorities |
+| Defence customers | Indian Armed Forces | US Armed Forces | National armed forces |
+| Defence R&D | DRDO and other agencies | DARPA and military research organisations | National research agencies and multinational programmes |
+| Civil space | ISRO | NASA | ESA, EU programmes and national space agencies |
+| Defence manufacturing | DPSUs and private companies | Private defence contractors | Multinational and national aerospace companies |
+| Commercial aircraft manufacturing | HAL and industrial suppliers in selected areas | Boeing and suppliers | Airbus and suppliers |
+| Engine manufacturing | HAL and other specialised participants | GE Aerospace, Pratt & Whitney and others | Rolls-Royce, Safran and others |
+
+This table is a simplified functional comparison, not a complete list of organisations or an assertion that each has identical responsibilities.
+
+## 2.3 Understand the difference between national and multinational structures
+
+India and the United States have national government frameworks.
+
+Europe is more complicated because it combines:
+
+- European Union institutions.
+- National governments.
+- National armed forces.
+- National aerospace industries.
+- The European Space Agency.
+- Multinational aerospace companies.
+
+For example, Airbus is a multinational European company, not a department of the European Union.
+
+Similarly, ESA is an independent intergovernmental organisation, not an EU agency.
+
+**Day 1 deliverable:** Create a table showing how India, the United States and Europe perform the same five functions: regulation, research, military procurement, manufacturing and space development.
+
+---
