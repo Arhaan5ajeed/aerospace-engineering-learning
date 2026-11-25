@@ -175,3 +175,270 @@ Similarly, ESA is an independent intergovernmental organisation, not an EU agenc
 **Day 1 deliverable:** Create a table showing how India, the United States and Europe perform the same five functions: regulation, research, military procurement, manufacturing and space development.
 
 ---
+
+# 3. Day 2 — United States: Government, Military and Research Ecosystem
+
+The United States has one of the world's most extensive aerospace and defence industrial ecosystems.
+
+To understand it, begin with the government institutions.
+
+## 3.1 The Federal Aviation Administration (FAA)
+
+The FAA operates under the United States Department of Transportation.
+
+Its primary responsibility is civil aviation safety and the regulation of the US civil aviation system.
+
+Its activities include:
+
+- Aircraft certification.
+- Airworthiness standards.
+- Aviation safety regulation.
+- Pilot and aviation personnel certification.
+- Air traffic management.
+- Airport oversight.
+- Aircraft manufacturing and maintenance standards.
+- Commercial space transportation licensing.
+
+### Why is FAA important?
+
+Imagine Boeing develops a new commercial aircraft.
+
+The aircraft cannot simply enter commercial passenger service because its design is technically impressive.
+
+It must satisfy applicable certification requirements.
+
+The FAA plays a central role in this process for aircraft seeking US certification.
+
+The FAA also works with foreign aviation authorities because commercial aircraft operate internationally.
+
+**Remember:** FAA is a regulator, not an aircraft manufacturer.
+
+## 3.2 Department of Defense (DoD)
+
+The United States Department of Defense is responsible for providing the military forces needed to protect US national security.
+
+It includes the military departments and other defence organisations.
+
+Its aerospace-related responsibilities involve:
+
+- Military aircraft.
+- Missiles.
+- Space-based military capabilities.
+- Radar and surveillance.
+- Autonomous systems.
+- Military propulsion.
+- Electronic warfare.
+- Defence research and development.
+- Military procurement and lifecycle support.
+
+The DoD is one of the major customers of the US defence industry.
+
+### How does the DoD interact with private companies?
+
+Consider an aircraft requirement from the US military.
+
+The military identifies an operational need.
+
+The government establishes programme requirements, funding and acquisition arrangements.
+
+A defence contractor may then undertake:
+
+- Design.
+- Engineering.
+- Manufacturing.
+- Integration.
+- Testing.
+- Delivery.
+- Maintenance and upgrades.
+
+The contractor is responsible for fulfilling the contractual obligations associated with the programme.
+
+This is one of the defining relationships in the US defence ecosystem.
+
+## 3.3 US Air Force, Navy and Army
+
+The US military is not a single aerospace customer.
+
+Different military services operate different platforms and require different technologies.
+
+### A. US Air Force
+
+The US Air Force operates systems associated with:
+
+- Air superiority.
+- Strategic bombing.
+- Air mobility.
+- Intelligence, surveillance and reconnaissance.
+- Air defence.
+- Space-related military capabilities through its organisational structure.
+
+Its requirements include:
+
+- Fighter aircraft.
+- Bombers.
+- Tankers.
+- Transport aircraft.
+- Airborne radar.
+- Missiles.
+- Propulsion systems.
+- Autonomous aircraft.
+
+### B. US Navy
+
+The US Navy operates aircraft and systems designed for maritime environments.
+
+Its aerospace requirements include:
+
+- Carrier-based fighter aircraft.
+- Maritime patrol aircraft.
+- Naval helicopters.
+- Unmanned aircraft.
+- Airborne surveillance systems.
+- Shipborne aviation systems.
+- Naval missiles and sensors.
+
+Naval aviation introduces unique engineering requirements, including:
+
+- Arrested landings.
+- Catapult launches.
+- Corrosion resistance.
+- Compact storage.
+- Shipboard maintenance.
+- Operation in maritime environments.
+
+### C. US Army
+
+The US Army's aviation requirements differ from those of the Air Force and Navy.
+
+Its capabilities include:
+
+- Attack helicopters.
+- Utility helicopters.
+- Transport helicopters.
+- Tactical UAVs.
+- Reconnaissance systems.
+- Tactical communications.
+- Ground-based air defence.
+
+The Army's aviation systems are generally designed around land-force operational requirements.
+
+### Why is this distinction important?
+
+A fighter aircraft designed for an aircraft carrier has different requirements from a land-based fighter.
+
+Similarly, a helicopter designed for battlefield transport has different priorities from a long-range commercial passenger aircraft.
+
+The customer influences the engineering.
+
+## 3.4 Defense Advanced Research Projects Agency (DARPA)
+
+DARPA stands for Defense Advanced Research Projects Agency.
+
+It is a research and development agency within the US Department of Defense.
+
+Its mission is to develop technologies that create significant strategic advantages and prevent technological surprise.
+
+DARPA focuses on high-risk, high-potential research.
+
+Its work involves:
+
+- Artificial intelligence.
+- Robotics.
+- Autonomous systems.
+- Advanced materials.
+- Hypersonic technologies.
+- Sensors.
+- Communications.
+- Cybersecurity.
+- Advanced propulsion.
+- Space technologies.
+
+### Why is DARPA different from a manufacturer?
+
+DARPA does not operate like Boeing or Lockheed Martin.
+
+It develops and funds advanced research programmes, often involving:
+
+- Universities.
+- Research laboratories.
+- Startups.
+- Private defence contractors.
+- Other government organisations.
+
+A technology developed through a DARPA programme may eventually be transferred, adapted or developed further by another organisation.
+
+### Simplified relationship
+
+```text
+          US DEPARTMENT OF DEFENSE
+                    |
+                    v
+                  DARPA
+                    |
+                    v
+          ADVANCED RESEARCH PROGRAMMES
+                    |
+          +---------+---------+
+          |         |         |
+          v         v         v
+      UNIVERSITIES STARTUPS INDUSTRY
+          |         |         |
+          +---------+---------+
+                    |
+                    v
+          TECHNOLOGY DEMONSTRATION
+                    |
+                    v
+          TRANSITION / INTEGRATION
+                    |
+                    v
+          DEFENCE OR CIVIL APPLICATION
+```
+
+This is a simplified innovation pathway. Not every DARPA programme reaches military production or commercialisation.
+
+## 3.5 National Aeronautics and Space Administration (NASA)
+
+NASA is the United States' civil space agency.
+
+It is responsible for:
+
+- Space exploration.
+- Scientific missions.
+- Human spaceflight.
+- Planetary exploration.
+- Earth observation.
+- Space technology.
+- Aeronautics research.
+
+NASA also works with universities, research institutions and commercial companies.
+
+### NASA and commercial space companies
+
+NASA does not need to manufacture every launch vehicle or spacecraft itself.
+
+It can work with private companies through contracts, partnerships and commercial programmes.
+
+For example, commercial providers can supply launch and transportation services for NASA missions.
+
+This creates a relationship between:
+
+- Government mission requirements.
+- NASA technical oversight.
+- Private-sector manufacturing.
+- Commercial launch services.
+- Research institutions.
+
+### NASA is not the FAA
+
+Their responsibilities are different.
+
+| NASA | FAA |
+|---|---|
+| Civil space and aeronautics research | Civil aviation regulation |
+| Space exploration | Aircraft certification and safety |
+| Scientific missions | Air traffic management |
+| Space technology development | Commercial space transportation licensing within its remit |
+| Partnerships with commercial space companies | Regulatory oversight of applicable commercial space launches |
+
+---
