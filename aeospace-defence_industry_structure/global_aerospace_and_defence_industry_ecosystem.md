@@ -442,3 +442,228 @@ Their responsibilities are different.
 | Partnerships with commercial space companies | Regulatory oversight of applicable commercial space launches |
 
 ---
+
+# 4. Day 3 — United States: Manufacturers and Industrial Structure
+
+The US aerospace and defence industry has a large private-sector manufacturing base.
+
+Study the companies by their industrial roles rather than by their size or market valuation.
+
+## 4.1 Boeing
+
+Boeing operates across three major business areas:
+
+- Commercial Airplanes.
+- Defense, Space & Security.
+- Global Services.
+
+### Commercial Airplanes
+
+Boeing develops and manufactures commercial passenger and cargo aircraft.
+
+Its products are purchased by:
+
+- Airlines.
+- Leasing companies.
+- Cargo operators.
+- Other commercial customers.
+
+### Defense, Space & Security
+
+Its activities include:
+
+- Military aircraft.
+- Helicopters.
+- Autonomous systems.
+- Weapons.
+- Space systems.
+- Satellites.
+- Military support systems.
+
+### Global Services
+
+This business supports aircraft and systems throughout their lifecycle.
+
+Its services include:
+
+- Maintenance.
+- Training.
+- Engineering.
+- Spare parts.
+- Technical support.
+- Fleet services.
+
+### What does Boeing teach us?
+
+Boeing demonstrates how a single aerospace company can operate across civil aviation, defence and space.
+
+It also demonstrates the importance of long-term services beyond the initial sale of a product.
+
+## 4.2 Lockheed Martin
+
+Lockheed Martin is a major defence and aerospace contractor.
+
+Its business areas include:
+
+- Aeronautics.
+- Missiles and Fire Control.
+- Rotary and Mission Systems.
+- Space.
+
+Its products and capabilities include:
+
+- Fighter aircraft.
+- Missile systems.
+- Air and missile defence.
+- Helicopters.
+- Radar.
+- Command and control systems.
+- Satellites.
+- Military space systems.
+- Advanced aerospace technologies.
+
+### Why study Lockheed Martin?
+
+It is an example of a company that operates across multiple defence domains.
+
+Its capabilities are not limited to manufacturing aircraft.
+
+It develops integrated military systems that combine:
+
+- Hardware.
+- Software.
+- Sensors.
+- Communications.
+- Mission systems.
+- Space infrastructure.
+
+This is an important lesson for modern aerospace engineering.
+
+## 4.3 Northrop Grumman
+
+Northrop Grumman is a major aerospace and defence technology company.
+
+Its capabilities include:
+
+- Military aircraft.
+- Autonomous systems.
+- Space systems.
+- Missile defence.
+- Radar.
+- Sensors.
+- Electronic warfare.
+- Strategic deterrence systems.
+- Advanced mission systems.
+
+It is particularly useful to study for understanding the intersection of aerospace, defence electronics, autonomy and space technology.
+
+### What does Northrop Grumman teach us?
+
+Modern defence systems are increasingly integrated.
+
+An aircraft may depend on:
+
+- Sensors.
+- Communications.
+- Mission computers.
+- Data links.
+- Software.
+- Electronic warfare systems.
+- Space-based information.
+
+A company that develops integrated systems can operate across several parts of the defence ecosystem.
+
+## 4.4 RTX Corporation
+
+RTX operates through three principal businesses:
+
+- Collins Aerospace.
+- Pratt & Whitney.
+- Raytheon.
+
+These businesses cover different parts of the aerospace and defence industry.
+
+### Collins Aerospace
+
+Focuses on areas such as:
+
+- Avionics.
+- Flight control systems.
+- Communications.
+- Navigation.
+- Aircraft systems.
+- Sensors.
+- Landing systems.
+- Aerospace components.
+- Maintenance and support.
+
+### Pratt & Whitney
+
+Focuses on:
+
+- Aircraft engines.
+- Engine development.
+- Manufacturing.
+- Engine maintenance.
+- Repair and overhaul.
+- Propulsion technology.
+
+### Raytheon
+
+Focuses on:
+
+- Missiles.
+- Radar.
+- Air defence.
+- Sensors.
+- Defence electronics.
+- Integrated defence systems.
+
+### Why study RTX?
+
+RTX demonstrates how one industrial group can supply critical subsystems to many different aircraft and defence platforms.
+
+A company does not need to manufacture an entire aircraft to be strategically important.
+
+An engine, radar, avionics package or propulsion component can be equally critical to the final system.
+
+## 4.5 The US industrial structure
+
+```text
+               US GOVERNMENT / MARKET
+                         |
+          +--------------+--------------+
+          |              |              |
+          v              v              v
+      AIRLINES       MILITARY          NASA /
+      OPERATORS       DoD              SPACE
+          |              |              |
+          v              v              v
+       BOEING       DEFENCE PRIMES    SPACE
+                    |                CONTRACTORS
+          +---------+---------+
+          |         |         |
+          v         v         v
+       LOCKHEED  NORTHROP    BOEING
+        MARTIN   GRUMMAN
+          |
+          +--------------------------+
+                                     |
+                                     v
+                             SPECIALISED SUPPLIERS
+                                     |
+                          +----------+----------+
+                          |                     |
+                          v                     v
+                       RTX                OTHER SUPPLIERS
+                          |
+              +-----------+-----------+
+              |           |           |
+              v           v           v
+           COLLINS      PRATT &      RAYTHEON
+          AEROSPACE     WHITNEY
+```
+
+This is a functional illustration, not a literal ownership or contracting hierarchy. Boeing and the defence primes also have extensive supplier networks, and RTX supplies many customers across the industry.
+
+---
